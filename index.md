@@ -12,13 +12,10 @@ layout: default
 ## Publications 
 
 C. Reichherzer, A. Cunningham, J. Walsh, M. Kohler, M. Billinghurst and B. H. Thomas, "Narrative and Spatial Memory for Jury Viewings in a Reconstructed Virtual Environment," in IEEE Transactions on Visualization & Computer Graphics, vol. 24, no. 11, pp. 2917-2926, 2018. 
-doi:10.1109/TVCG.2018.2868569
 
-C. Reichherzer, A. Nassani and M. Billinghurst, "[Poster] Social panoramas using wearable computers," 2014 IEEE International Symposium on Mixed and Augmented Reality (ISMAR), Munich, Germany, 2014, pp. 303-304. 
-doi:10.1109/ISMAR.2014.6948461
+C. Reichherzer, A. Nassani and M. Billinghurst, "[Poster] Social panoramas using wearable computers," 2014 IEEE International Symposium on Mixed and Augmented Reality (ISMAR), Munich, Germany, 2014, pp. 303-304.
 
-
-Mark Billinghurst, Alaeddin Nassani, and Carolin Reichherzer. 2014. Social panoramas: using wearable computers to share experiences. In SIGGRAPH Asia 2014 Mobile Graphics and Interactive Applications (SA '14). ACM, New York, NY, USA, Article 25, 1 pages. DOI: https://doi.org/10.1145/2669062.2669084
+Mark Billinghurst, Alaeddin Nassani, and Carolin Reichherzer. 2014. Social panoramas: using wearable computers to share experiences. In SIGGRAPH Asia 2014 Mobile Graphics and Interactive Applications (SA '14). ACM, New York, NY, USA, Article 25, 1 pages.
 
 ***
 

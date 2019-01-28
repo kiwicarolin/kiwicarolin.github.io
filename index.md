@@ -22,8 +22,5 @@ Mark Billinghurst, Alaeddin Nassani, and Carolin Reichherzer. 2014. Social panor
 
 ***
 
-### Small image
-
-![Test](/assets/img/logo.png)
 
 

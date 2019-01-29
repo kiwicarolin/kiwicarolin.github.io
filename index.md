@@ -8,7 +8,6 @@ layout: default
 * Measuring the impact of Virtual Reality on decision-making, attention and memory on potential jurors 
 * Improving understanding of forensic evidence
 
-![Reconstructed with Photogrammetry – Model in Unity3D using HDRP](/assets/img/reconstruction.png)
 
 ***
 
@@ -19,6 +18,9 @@ layout: default
 * Processing point clouds with FARO Scene, Autodesk Recap and CloudCompare
 * Developing 3D Virtual Reality applications in Unity3D with points clouds and (baked) photogrammetry models
 * Data Analysis in SPSS and R (RStudio)
+
+![Reconstructed with Photogrammetry – Model in Unity3D using HDRP](/assets/img/reconstruction.png)
+
 
 ***
 

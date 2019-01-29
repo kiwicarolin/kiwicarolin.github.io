@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Reconstructed with Photogrammetry – Model in Unity3D using HDRP] (/assets/img/reconstruction.png)
+![Reconstructed with Photogrammetry – Model in Unity3D using HDRP](/assets/img/reconstruction.png)
 
 ## Research
 
@@ -10,9 +10,7 @@ layout: default
 * Measuring the impact of Virtual Reality on decision-making, attention and memory on potential jurors when confronted with an immersive crime scene
 
 ***
-
-![Point Cloud with blood spatter pattern] (/assets/img/BPA.png)
-
+![Point Cloud with blood spatter pattern](/assets/img/reconstruction.png)
 
 ## Publications 
 

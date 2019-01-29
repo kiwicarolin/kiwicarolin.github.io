@@ -6,6 +6,7 @@ layout: default
 
 * Exploring the possible uses of 3D reconstruction paired with Virtual Reality to support court proceedings
 * Measuring the impact of Virtual Reality on decision-making, attention and memory on potential jurors when confronted with an immersive crime scene
+* Improving understanding of forensic evidence
 
 ![Reconstructed with Photogrammetry – Model in Unity3D using HDRP](/assets/img/reconstruction.png)
 

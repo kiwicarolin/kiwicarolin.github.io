@@ -12,6 +12,15 @@ layout: default
 
 ***
 
+## Skills
+
+* 3D Laser scanning (FARO Focus)
+* Photogrammetry (RealityCapture)
+* Processing point clouds with FARO Scene, Autodesk Recap and CloudCompare
+* Developing 3D Virtual Reality applications in Unity3D with points clouds and (baked) photogrammetry models
+* Data Analysis in SPSS and R (RStudio)
+
+
 ## Publications 
 
 C. Reichherzer, A. Cunningham, J. Walsh, M. Kohler, M. Billinghurst and B. H. Thomas, "Narrative and Spatial Memory for Jury Viewings in a Reconstructed Virtual Environment," in IEEE Transactions on Visualization & Computer Graphics, vol. 24, no. 11, pp. 2917-2926, 2018. 
@@ -22,8 +31,18 @@ Mark Billinghurst, Alaeddin Nassani, and Carolin Reichherzer. 2014. Social panor
 
 ![Point Cloud with blood spatter pattern](/assets/img/BPA.png)
 
-
 ***
+
+### Teaching and Volunteering
+
+**Teaching assistant at the University of South Australia**
+Programming Fundamentals: Introduction to Object-Oriented Programming with Java.
+Interface Design, Interaction and Experience: Introduction to human centered design and its implementation with JavaFX.
+Virtual Reality: Introduction to developing for Unity3D and HTC Vive.
+**Volunteer**
+Women in STEM Club: Executive Committee member at the University of South Australia. I help plan events and acquire grants based on our three values: Innovation, Inclusion and Inspiration. 
+Code like a girl: Event volunteer
+
 
 
 

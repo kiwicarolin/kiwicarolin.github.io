@@ -20,6 +20,8 @@ layout: default
 * Developing 3D Virtual Reality applications in Unity3D with points clouds and (baked) photogrammetry models
 * Data Analysis in SPSS and R (RStudio)
 
+***
+
 
 ## Publications 
 

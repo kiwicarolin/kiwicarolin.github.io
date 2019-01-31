@@ -51,9 +51,9 @@ Mark Billinghurst, Alaeddin Nassani, and **Carolin Reichherzer**. 2014. Social p
 ### Awards
 
 * 3 Minute Thesis Division Finalist
-* :output Design award: Design of an interactive application. This resulted in a publication in :output 15 and German Design magazine „form“ 
+* :output Design award: Design of an interactive application
 * Global Game Jam Bremen 2012: „Most creative game“ and „Best concept“ 
-* :output Design award: Visual identity and typographic installation for a Design conference. Publication in :output 13. 
+* :output Design award: Visual identity and typographic installation for a Design conference
 
 ***
 

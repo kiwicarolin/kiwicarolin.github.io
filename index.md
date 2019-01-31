@@ -63,7 +63,7 @@ Mark Billinghurst, Alaeddin Nassani, and **Carolin Reichherzer**. 2014. Social p
 **Teaching assistant at the University of South Australia**
 * Programming Fundamentals: Introduction to Object-Oriented Programming with Java.
 * Interface Design, Interaction and Experience: Introduction to human centered design and its implementation with JavaFX.
-* Virtual Reality: Introduction to developing for Unity3D and HTC Vive.
+* Virtual Reality: Introduction to Unity3D and HTC Vive.
 
 **Volunteer**
 * Women in STEM Club: Executive Committee member at the University of South Australia. I help plan events and acquire grants based on our three values: Innovation, Inclusion and Inspiration. 

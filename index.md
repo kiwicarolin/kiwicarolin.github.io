@@ -45,6 +45,7 @@ Mark Billinghurst, Alaeddin Nassani, and **Carolin Reichherzer**. 2014. Social p
 * Data to Decisions CRC Travel Grant
 * German Academic Exchange Service (DAAD) 
 * Equipment Grant (UniSA) worth 73900 AUD for laser scanning equipment
+* 10 000 AUD for our Women in Stem Club
 
 ***
 

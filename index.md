@@ -68,7 +68,7 @@ Mark Billinghurst, Alaeddin Nassani, and **Carolin Reichherzer**. 2014. Social p
 * Data Structures: Guest lessons on Lists, Stacks and Queues 
 
 **Volunteer**
-* Women in STEM Club: Executive Committee member at the University of South Australia. I help plan events and acquire grants based on our three values: Innovation, Inclusion and Inspiration. 
+* Women in STEM Club UniSA: Planning Manager. I defined the groups core vision of Innovation, Inclusion and Inspiration. I am also responsible for creating and maintaining our project schedules and help acquire grants. 
 * Code like a girl: Event volunteer
 
 ***

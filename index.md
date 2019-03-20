@@ -38,7 +38,9 @@ Mark Billinghurst, Alaeddin Nassani, and **Carolin Reichherzer**. 2014. Social p
 
 ![Point Cloud with blood spatter pattern](/assets/img/BPA.png)
 
-**In the Media**
+*** 
+
+###In the Media
 * UniSA News: [The technology to take a jury into a 3D crime scene](https://u.unisa.edu.au/unisanews/2019/march/story2/). (March 2019)
 * The Advertiser: University of SA investigates using virtual reality to walk trial juries through crime scenes. (March 2019)
 

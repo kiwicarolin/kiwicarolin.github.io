@@ -41,7 +41,7 @@ Mark Billinghurst, Alaeddin Nassani, and **Carolin Reichherzer**. 2014. Social p
 *** 
 
 ### In the Media
-* The Advertiser: [University of SA investigates using virtual reality towalk trial juries through crime scenes](https://outline.com/skwkYf). (March 2019)
+* The Advertiser: [University of SA investigates using virtual reality to walk trial juries through crime scenes](https://outline.com/skwkYf). (March 2019)
 * UniSA News: [The technology to take a jury into a 3D crime scene](https://u.unisa.edu.au/unisanews/2019/march/story2/). (March 2019)
 * SA Lead: [Virtual Reality more reliable than photographs for jurors](http://theleadsouthaustralia.com.au/industries/technology/virtual-reality-more-reliable-than-photographs-for-jurors/). (March 2019)
 

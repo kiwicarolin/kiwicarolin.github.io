@@ -42,13 +42,14 @@ Mark Billinghurst, Alaeddin Nassani, and **Carolin Reichherzer**. 2014. Social p
 
 ### In the Media
 * UniSA News: [The technology to take a jury into a 3D crime scene](https://u.unisa.edu.au/unisanews/2019/march/story2/). (March 2019)
-* The Advertiser: University of SA investigates using virtual reality to walk trial juries through crime scenes. (March 2019)
+* The Advertiser: [University of SA investigates using virtual reality to walk trial juries through crime scenes]   (https://outline.com/skwkYf). (March 2019)
+* SA Lead: [Virtual Reality more reliable than photographs for jurors](http://theleadsouthaustralia.com.au/industries/technology/virtual-reality-more-reliable-than-photographs-for-jurors/). (March 2019)
 
 ***
 
 ### Scholarships and Grants
+* Data to Decisions CRC Applied Research Grant
 * Data to Decisions CRC PhD scholarship
-* Data to Decisions CRC Travel Grant
 * German Academic Exchange Service (DAAD) 
 * Equipment Grant (UniSA) worth 73900 AUD for laser scanning equipment
 * 10 000 AUD for our Women in Stem Club
@@ -74,7 +75,7 @@ Mark Billinghurst, Alaeddin Nassani, and **Carolin Reichherzer**. 2014. Social p
 * Data Structures: Guest lessons on Lists, Stacks and Queues 
 
 **Volunteer**
-* Women in STEM Club UniSA: Planning Manager. I defined the groups core vision of Innovation, Inclusion and Inspiration. I am also responsible for creating and maintaining our project schedules and help acquire grants. 
+* Women in STEM Club UniSA: Planning Director. I defined the groups core vision of Innovation, Inclusion and Inspiration. I am also responsible for creating and maintaining our project schedules and help acquire grants. 
 * Code like a girl: Event volunteer
 
 ***

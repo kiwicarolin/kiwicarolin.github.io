@@ -49,7 +49,8 @@ Mark Billinghurst, Alaeddin Nassani, and **Carolin Reichherzer**. 2014. Social p
 ***
 
 ### Scholarships and Grants
-* Data to Decisions CRC Applied Research Grant
+* Data to Decisions CRC Applied Research Grant 2019
+* Data to Decisions CRC Applied Research Grant 2018
 * Data to Decisions CRC PhD scholarship
 * German Academic Exchange Service (DAAD) 
 * Equipment Grant (UniSA) worth 73900 AUD for laser scanning equipment

@@ -14,8 +14,8 @@ layout: default
 
 ## Education
 
-**PhD in Computer Science**, University of South Australia (2016 – 2020)  
-**MSc in Digital Media**, University of Bremen (2011 – 2014) 
+**PhD in Computer Science**, University of South Australia (2016 – 2020) <br>
+**MSc in Digital Media**, University of Bremen (2011 – 2014) <br>
 **BA in Communication Design**, University of Applied Sciences Mainz (2007 – 2011) 
 
 ***

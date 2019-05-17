@@ -8,19 +8,24 @@ layout: default
 * Investigating the impact of Virtual Reality on decision-making, attention and memory in a reconstructed scene following a narrative 
 * Improving presentation of forensic evidence for better understanding by the jury
 
+![Reconstructed with Photogrammetry – Model in Unity3D using HDRP](/assets/img/reconstruction.png)
+
+***
+
+## Education
+
+* PhD in Computer Science, University of South Australia (2016 – 2018)
+* MSc in Digital Media, University of Bremen (2011 – 2014) 
+* BA in Communication Design (2007 – 2011) 
 
 ***
 
 ## Skills
 
-* 3D Laser scanning (FARO Focus)
-* Photogrammetry (RealityCapture)
-* Processing point clouds with FARO Scene, Autodesk Recap and CloudCompare
-* Interactive 3D Virtual Reality applications in Unity3D with points clouds and photogrammetry models
+* UX Research: Designing and carrying out user studies
+* 3D Reconstruction: Laser scanning and photogrammetry
+* Interactive Virtual Reality applications in Unity3D
 * Data Analysis in SPSS and R (RStudio)
-
-![Reconstructed with Photogrammetry – Model in Unity3D using HDRP](/assets/img/reconstruction.png)
-
 
 ***
 

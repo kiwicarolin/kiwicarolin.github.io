@@ -4,7 +4,7 @@ layout: default
 
 ## Research
 
-* Exploring reconstructed crime scenes in Virtual Reality
+* Exploring interactive reconstructed crime scenes in Virtual Reality for a better user experience 
 * Investigating the impact of Virtual Reality on decision-making, attention and memory in a reconstructed scene following a narrative 
 * Improving presentation of forensic evidence for better understanding by the jury
 

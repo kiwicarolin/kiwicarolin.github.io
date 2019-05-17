@@ -4,9 +4,9 @@ layout: default
 
 ## Research
 
-* Using 3D reconstruction paired with Virtual Reality to support court proceedings
-* Measuring the impact of Virtual Reality on decision-making, attention and memory on potential jurors 
-* Improving understanding of forensic evidence
+* Exploring reconstructed crime scenes in Virtual Reality
+* Investigating the impact of Virtual Reality on decision-making, attention and memory in a reconstructed scene following a narrative 
+* Improving presentation of forensic evidence for better understanding by the jury
 
 
 ***
@@ -16,7 +16,7 @@ layout: default
 * 3D Laser scanning (FARO Focus)
 * Photogrammetry (RealityCapture)
 * Processing point clouds with FARO Scene, Autodesk Recap and CloudCompare
-* Developing 3D Virtual Reality applications in Unity3D with points clouds and (baked) photogrammetry models
+* Interactive 3D Virtual Reality applications in Unity3D with points clouds and photogrammetry models
 * Data Analysis in SPSS and R (RStudio)
 
 ![Reconstructed with Photogrammetry – Model in Unity3D using HDRP](/assets/img/reconstruction.png)

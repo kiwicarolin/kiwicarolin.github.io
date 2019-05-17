@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Research
+## Ongoing Research
 
 * Exploring interactive reconstructed crime scenes in Virtual Reality for a better user experience 
 * Investigating the impact of Virtual Reality on decision-making, attention and memory in a reconstructed scene following a narrative 

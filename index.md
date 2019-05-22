@@ -8,7 +8,7 @@ layout: default
 * Investigating the impact of Virtual Reality on decision-making, attention and memory in a reconstructed scene following a narrative 
 * Improving presentation of forensic evidence for better understanding by the jury
 
-_My research is possible thanks to the Data to Decisions CRC who have graciously supported me throughout the past two years._  
+_My research is possible thanks to the Data to Decisions CRC who graciously support my candidature._  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8yMOz9hCWyY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ***

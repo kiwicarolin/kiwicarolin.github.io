@@ -4,9 +4,10 @@ layout: default
 
 ## Ongoing Research
 
-* Exploring interactive reconstructed crime scenes in Virtual Reality for a better user experience 
+* Exploring interactive reconstructed crime scenes in Virtual Reality for better understanding of the events that transpired
 * Investigating the impact of Virtual Reality on decision-making, attention and memory in a reconstructed scene following a narrative 
-* Improving presentation of forensic evidence for better understanding by the jury
+* Improving presentation of forensic evidence for better understanding by the Jury
+* Establishing guidelines for future use of Virtual Reality in court
 
 _My research is possible thanks to the Data to Decisions CRC who graciously support my candidature._  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8yMOz9hCWyY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

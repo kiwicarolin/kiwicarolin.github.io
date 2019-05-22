@@ -79,7 +79,7 @@ Mark Billinghurst, Alaeddin Nassani, and **Carolin Reichherzer**. 2014. Social p
 * Programming Fundamentals: Introduction to Object-Oriented Programming with Java.
 * Interface Design, Interaction and Experience: Introduction to human centered design, app development with JavaFX.
 * Virtual Reality: Introduction to Unity3D and HTC Vive.
-* Data Structures: Guest lessons on Lists, Stacks and Queues 
+* Data Structures: Lists, Stacks, Queues, Maps and Sets  
 
 **Volunteer**
 * Women in STEM Club UniSA: Planning Director. I defined the groups core vision of Innovation, Inclusion and Inspiration. I am also responsible for creating and maintaining our project schedules and help acquire grants. 

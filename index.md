@@ -66,7 +66,7 @@ Mark Billinghurst, Alaeddin Nassani, and **Carolin Reichherzer**. 2014. Social p
 ***
 
 ### Awards
-
+* Retail Game Changer Challenge: 1st Place Winner
 * 3 Minute Thesis Division Finalist
 * :output Design award: Design of an interactive application
 * Global Game Jam Bremen 2012: „Most creative game“ and „Best concept“ 

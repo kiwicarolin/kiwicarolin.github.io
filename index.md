@@ -58,20 +58,20 @@ Mark Billinghurst, Alaeddin Nassani, and **Carolin Reichherzer**. 2014. Social p
 ### Scholarships and Grants
 * Data to Decisions CRC Applied Research Grant 2019
 * Data to Decisions CRC Applied Research Grant 2018
+* Equipment Grant (UniSA): $73900 AUD for two FARO laser scanners
 * Data to Decisions CRC PhD scholarship
 * German Academic Exchange Service (DAAD) 
-* Equipment Grant (UniSA) worth 73900 AUD for laser scanning equipment
-* 10 000 AUD for our Women in Stem Club
+* Women in Stem Club: $10 000 AUD for workshops
 
 ***
 
 ### Awards and Achievements
-* Retail Game Changer Challenge: 1st Place Winner
+* Retail Game Changer Challenge 2019: 1st Place Winner
 * Finalist Google Women Techmaker APAC 2019
-* 3 Minute Thesis Division Finalist
+* 3 Minute Thesis Division Finalist 2018
 * :output Design award: Design of an interactive application
 * Global Game Jam Bremen 2012: „Most creative game“ and „Best concept“ 
-* :output Design award: Visual identity and typographic installation for a Design conference
+* :output Design award: Branding for a design conference
 
 ***
 

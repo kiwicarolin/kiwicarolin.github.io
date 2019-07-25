@@ -66,7 +66,7 @@ Mark Billinghurst, Alaeddin Nassani, and **Carolin Reichherzer**. 2014. Social p
 ***
 
 ### Awards and Achievements
-* Retail Game Changer Challenge 2019: 1st Place Winner, $25000 towards turning our idea into a product.
+* Retail Game Changer Challenge 2019: 1st Place Winner, $25.000 AUD
 * Finalist Google Women Techmaker APAC 2019
 * 3 Minute Thesis Division Finalist 2018
 * :output Design award: Design of an interactive application

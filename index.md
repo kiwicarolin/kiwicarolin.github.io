@@ -78,9 +78,9 @@ Mark Billinghurst, Alaeddin Nassani, and **Carolin Reichherzer**. 2014. Social p
 ### Teaching and Volunteering
 
 **Teaching assistant at the University of South Australia**
-* Programming Fundamentals: Introduction to Object-Oriented Programming with Java.
-* Interface Design, Interaction and Experience: Introduction to human centered design, app development with JavaFX.
-* Virtual Reality: Introduction to Unity3D and HTC Vive.
+* Programming Fundamentals: Introduction to Object-Oriented Programming with Java
+* Interface Design, Interaction and Experience: Introduction to human centered design, app development with JavaFX
+* Virtual Reality: Introduction to Unity3D and HTC Vive
 * Data Structures: Lists, Stacks, Queues, Maps and Sets  
 
 **Guest lecturer at the University of South Australia**
@@ -92,7 +92,7 @@ Mark Billinghurst, Alaeddin Nassani, and **Carolin Reichherzer**. 2014. Social p
 
 ***
 
-![Reconstructed with Photogrammetry – Model in Unity3D using HDRP](/assets/img/reconstruction.png)
+![Reconstructed with Photogrammetry – Model in Unity3D](/assets/img/reconstruction.png)
 
 
 

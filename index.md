@@ -66,7 +66,7 @@ Mark Billinghurst, Alaeddin Nassani, and **Carolin Reichherzer**. 2014. Social p
 ***
 
 ### Awards and Achievements
-* **1st Place Winner** [Retail Game Changer Challenge 2019: $25.000 AU](http://w3.unisa.edu.au/alumni/alumninews/2019/issue7/STORY_6.html)
+* **1st Place Winner** [Retail Game Changer Challenge 2019: $25.000 AUD](http://w3.unisa.edu.au/alumni/alumninews/2019/issue7/STORY_6.html)
 * **Finalist** Google Women Techmaker APAC 2019
 * **Division Finalist** 3 Minute Thesis 2018
 * **Winner** :output Design award: Design of an interactive application

@@ -66,8 +66,10 @@ Mark Billinghurst, Alaeddin Nassani, and **Carolin Reichherzer**. 2014. Social p
 ***
 
 ### Awards and Achievements
+**Shortlisted** Academic Excellence Postgraduate Research by the South Australian government
 * **1st Place Winner** [Retail Game Changer Challenge 2019: $25.000 AUD](http://w3.unisa.edu.au/alumni/alumninews/2019/issue7/STORY_6.html)
-* **Finalist** Google Women Techmaker APAC 2019
+**Club of the Year 2019** Women in STEM UniSA Club  
+* **Shortlisted** Google Women Techmaker APAC 2019
 * **Division Finalist** 3 Minute Thesis 2018
 * **Winner** :output Design award: Design of an interactive application
 * **Winner** Global Game Jam Bremen 2012: „Most creative game“ and „Best concept“ 
@@ -84,7 +86,7 @@ Mark Billinghurst, Alaeddin Nassani, and **Carolin Reichherzer**. 2014. Social p
 * Data Structures: Lists, Stacks, Queues, Maps and Sets  
 
 **Guest lecturer at the University of South Australia**
-* HCI principles in Virtual Reality
+* Augmented Reality Interaction
 
 **Volunteer**
 * Women in STEM Club UniSA: Planning Director. I defined the groups core vision of Innovation, Inclusion and Inspiration. I am also responsible for creating and maintaining our project schedules and help acquire grants. 

@@ -14,6 +14,8 @@ _My research is possible thanks to the Data to Decisions CRC who graciously supp
 
 ***
 
+[Link to another page](./another-page.html).
+
 ## Education
 
 **PhD in Computer Science**, University of South Australia (2016 – 2020) <br>

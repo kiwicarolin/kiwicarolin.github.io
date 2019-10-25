@@ -24,10 +24,11 @@ _My research is possible thanks to the Data to Decisions CRC who graciously supp
 
 ## Skills
 
+* Developing interactive Virtual Reality applications in Unity
+* Innovation through design thinking for better user experience 
 * UX Research: Designing and carrying out user studies
 * 3D Reconstruction: Laser scanning and photogrammetry
-* Interactive Virtual Reality applications in Unity3D
-* Data Analysis in SPSS and R (RStudio)
+* Data Analysis
 
 ***
 
@@ -55,18 +56,8 @@ Mark Billinghurst, Alaeddin Nassani, and **Carolin Reichherzer**. 2014. Social p
 
 ***
 
-### Scholarships and Grants
-* Data to Decisions CRC Applied Research Grant 2019
-* Data to Decisions CRC Applied Research Grant 2018
-* Equipment Grant (UniSA): $73.900 AUD for two FARO laser scanners
-* Women in Stem Club: $10.000 AUD for workshops
-* Data to Decisions CRC PhD scholarship
-* German Academic Exchange Service (DAAD) 
-
-***
-
 ### Awards and Achievements
-* **Highly Commended** Academic Excellence – Postgraduate Research awarded by the South Australian government
+* **Highly Commended** Academic Excellence – Postgraduate Research 2019 awarded by His Excellency the Honourable Hieu Van Le AC, Governor of South Australia
 * **1st Place Winner** [Retail Game Changer Challenge 2019: $25.000 AUD](https://icc.unisa.edu.au/newsroom/2019/unisa-phd-students-reinvent-retail-therapy-wheel/)
 * **Club of the Year 2019** Women in STEM UniSA Club  
 * **Shortlisted** Google Women Techmaker APAC 2019
@@ -74,6 +65,16 @@ Mark Billinghurst, Alaeddin Nassani, and **Carolin Reichherzer**. 2014. Social p
 * **Winner** :output Design award: Design of an interactive application
 * **Winner** Global Game Jam Bremen 2012: „Most creative game“ and „Best concept“ 
 * **Winner** :output Design award: Branding for a design conference
+
+***
+
+### Scholarships and Grants
+* Data to Decisions CRC Applied Research Grant 2019
+* Data to Decisions CRC Applied Research Grant 2018
+* Equipment Grant (UniSA): $73.900 AUD for two FARO laser scanners
+* Women in Stem Club: $10.000 AUD for workshops
+* Data to Decisions CRC PhD scholarship
+* German Academic Exchange Service (DAAD) 
 
 ***
 

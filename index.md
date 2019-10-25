@@ -66,7 +66,7 @@ Mark Billinghurst, Alaeddin Nassani, and **Carolin Reichherzer**. 2014. Social p
 ***
 
 ### Awards and Achievements
-* **Shortlisted** Academic Excellence Postgraduate Research by the South Australian government
+* **Highly Commended** Academic Excellence – Postgraduate Research awarded by the South Australian government
 * **1st Place Winner** [Retail Game Changer Challenge 2019: $25.000 AUD](https://icc.unisa.edu.au/newsroom/2019/unisa-phd-students-reinvent-retail-therapy-wheel/)
 * **Club of the Year 2019** Women in STEM UniSA Club  
 * **Shortlisted** Google Women Techmaker APAC 2019

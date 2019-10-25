@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Virtual Reality to transform the court room
+## Virtual Reality for high impact use cases 
 
 * Exploring interactive reconstructed crime scenes in Virtual Reality for better understanding of the events that transpired
 * Investigating the impact of Virtual Reality on decision-making, attention and memory in a reconstructed scene following a narrative 

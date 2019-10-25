@@ -14,7 +14,7 @@ _My research is possible thanks to the Data to Decisions CRC who graciously supp
 
 ***
 
-[Link to another page](./another-page.html).
+[Have a look at some past and ongoing projects](./portfolio.html).
 
 ## Education
 

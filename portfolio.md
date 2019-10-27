@@ -23,6 +23,7 @@ The app features an indoor map with points of interests that support the visitor
 ### Exploring Graphs
 _Tools: Unity and Leap Motion_
 
+![Image of Trails](/assets/img/Trails.PNG)
 
 
 ### Google Glass Remote Collaboration

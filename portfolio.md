@@ -4,7 +4,10 @@ layout: default
 
 ## Past and Ongoing Work
 
-### ShopTrotter: Loyalty program for shopping malls 
+### Virtual Reality for Crime Scene Visualisation
+
+
+### ShopTrotter: Loyalty Program for Shopping Malls 
 _Tools: Unity, Mapbox and QGis_
 
 Precision Group, owner of several shopping centres across Australia, was looking for an innovative idea to increase dwelling time in their centres. 
@@ -17,5 +20,8 @@ The app features an indoor map with points of interests that support the visitor
 
 ![Stamps](/assets/img/Screens.jpg)
 
+### Google Glass Remote Collaboration
+
+<iframe src="https://player.vimeo.com/video/110002088" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 [back](./)

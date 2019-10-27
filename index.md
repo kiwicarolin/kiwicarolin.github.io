@@ -34,14 +34,6 @@ _My research is possible thanks to the Data to Decisions CRC who graciously supp
 
 ***
 
-### In the Media
-* The Advertiser: [University of SA investigates using virtual reality to walk trial juries through crime scenes](https://www.adelaidenow.com.au/news/law-order/university-of-sa-investigates-using-virtual-reality-to-walk-trial-juries-through-crime-scenes/news-story/ad4fb3bcca125fbf9667720e16d755ef). (March 2019)
-* UniSA News: [The technology to take a jury into a 3D crime scene](https://u.unisa.edu.au/unisanews/2019/march/story2/). (March 2019)
-* SA Lead: [Virtual Reality more reliable than photographs for jurors](http://theleadsouthaustralia.com.au/industries/technology/virtual-reality-more-reliable-than-photographs-for-jurors/). (March 2019)
-* Futurithmic: [How VR is changing the game beyond consumer value](https://www.futurithmic.com/2019/05/21/how-vr-changing-game-beyond-consumer-value/). (May 2019)
-
-***
-
 ### Awards and Achievements
 * **Highly Commended** Academic Excellence in Postgraduate Research 2019 awarded by _His Excellency the Honourable Hieu Van Le AC_, Governor of South Australia
 * **1st Place Winner** [Retail Game Changer Challenge 2019: $25.000 AUD](https://icc.unisa.edu.au/newsroom/2019/unisa-phd-students-reinvent-retail-therapy-wheel/)
@@ -51,6 +43,14 @@ _My research is possible thanks to the Data to Decisions CRC who graciously supp
 * **Winner** :output Design award: Design of an interactive application
 * **Winner** Global Game Jam Bremen 2012: „Most creative game“ and „Best concept“ 
 * **Winner** :output Design award: Branding for a design conference
+
+***
+
+### In the Media
+* The Advertiser: [University of SA investigates using virtual reality to walk trial juries through crime scenes](https://www.adelaidenow.com.au/news/law-order/university-of-sa-investigates-using-virtual-reality-to-walk-trial-juries-through-crime-scenes/news-story/ad4fb3bcca125fbf9667720e16d755ef). (March 2019)
+* UniSA News: [The technology to take a jury into a 3D crime scene](https://u.unisa.edu.au/unisanews/2019/march/story2/). (March 2019)
+* SA Lead: [Virtual Reality more reliable than photographs for jurors](http://theleadsouthaustralia.com.au/industries/technology/virtual-reality-more-reliable-than-photographs-for-jurors/). (March 2019)
+* Futurithmic: [How VR is changing the game beyond consumer value](https://www.futurithmic.com/2019/05/21/how-vr-changing-game-beyond-consumer-value/). (May 2019)
 
 ***
 

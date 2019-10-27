@@ -20,7 +20,13 @@ The app features an indoor map with points of interests that support the visitor
 
 ![Stamps](/assets/img/Screens.jpg)
 
+### Exploring Graphs
+_Tools: Unity and Leap Motion_
+
+
+
 ### Google Glass Remote Collaboration
+_Tools: Google Glass, Processing for Android_
 
 <iframe src="https://player.vimeo.com/video/110002088" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 

@@ -35,7 +35,7 @@ _My research is possible thanks to the Data to Decisions CRC who graciously supp
 ***
 
 ### Awards and Achievements
-* **Highly Commended** Academic Excellence in Postgraduate Research 2019 awarded by _His Excellency the Honourable Hieu Van Le AC_, Governor of South Australia
+* **Highly Commended** [Academic Excellence in Postgraduate Research 2019 awarded by _His Excellency the Honourable Hieu Van Le AC_, Governor of South Australia](https://blog.studyadelaide.com/2019-international-student-awards/)
 * **1st Place Winner** [Retail Game Changer Challenge 2019: $25.000 AUD](https://icc.unisa.edu.au/newsroom/2019/unisa-phd-students-reinvent-retail-therapy-wheel/)
 * **Club of the Year 2019** Women in STEM UniSA Club  
 * **Shortlisted** Google Women Techmaker APAC 2019

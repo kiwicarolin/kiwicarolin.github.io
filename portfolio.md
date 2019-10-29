@@ -6,7 +6,7 @@ layout: default
 
 ### Virtual Reality for Crime Scene Visualisation
 
-<video>  <source src="/assets/img/HitAndRunExperiment.mp4" type="video/mp4"></video>
+<video width="512" height="288" controls autoplay>  <source src="/assets/img/HitAndRunExperiment.mp4" type="video/mp4"></video>
 
 
 ### ShopTrotter: Loyalty Program for Shopping Malls 

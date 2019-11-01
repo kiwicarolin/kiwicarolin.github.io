@@ -40,6 +40,9 @@ Viewing a graph with hand gestures. A bigger version of the graph was shown via 
 ### Google Glass Remote Collaboration
 _Tools: Google Glass, Processing for Android [Design and development]_
 
+PAN is a remote collaboration tool that allows panorama images to be explored in real time between a Google Glass user and a remote tablet user. 
+A variety of cues support awareness and annotations. 
+
 <iframe src="https://player.vimeo.com/video/110002088" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 [back](./)

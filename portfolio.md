@@ -15,8 +15,6 @@ Participants viewed a fictional hit and run scenario and had to memorise items f
 <video width="512" height="288" controls muted>  <source src="/assets/videos/bpa.mp4" type="video/mp4"></video>
 Can VR support attention and understanding of forensic information that has a spatial component? As the user is listening to an expert statement, the environment is going to highlight the areas they should be paying attention to. 
 
-
-
 ### ShopTrotter: Loyalty Program for Shopping Malls 
 _Tools: Unity, Mapbox and QGis [Design and contributing developer]_
 
@@ -34,6 +32,7 @@ The app features an indoor map with points of interests that support the visitor
 _Tools: Unity and Leap Motion [Design and UI implementation]_
 
 Viewing a graph with hand gestures. A bigger version of the graph was shown via world in miniature to navigate. 
+
 ![Image of Trails](/assets/img/Trails.PNG)
 
 

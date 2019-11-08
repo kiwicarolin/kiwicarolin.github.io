@@ -12,7 +12,7 @@ Reconstructing the event of a serious crime can be a major challenge for the jur
 <video width="100%" controls muted autoplay>  <source src="/assets/videos/HitAndRunExperiment.mp4" type="video/mp4"></video>
 Participants viewed a fictional hit and run scenario and had to memorise items found at the scene and make a verdict. 
 
-<video width="512" height="288" controls muted>  <source src="/assets/videos/bpa.mp4" type="video/mp4"></video>
+<video width="100%" controls muted>  <source src="/assets/videos/bpa.mp4" type="video/mp4"></video>
 Can VR support attention and understanding of forensic information that has a spatial component? As the user is listening to an expert statement, the environment is going to highlight the areas they should be paying attention to. 
 
 ### ShopTrotter: Loyalty Program for Shopping Malls 
@@ -41,6 +41,6 @@ _Tools: Google Glass, Processing for Android [Design and development]_
 PAN is a remote collaboration tool that allows panorama images to be explored in real time between a Google Glass user and a remote tablet user. 
 A variety of cues support awareness and annotations. 
 
-<iframe src="https://player.vimeo.com/video/110002088" width="512" height="288" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/110002088" width="100%" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 [back](./)

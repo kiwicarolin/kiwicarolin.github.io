@@ -12,7 +12,7 @@ layout: default
 **[Have a look at some past and ongoing work](./portfolio.html)**
 
 _My research is possible thanks to the Data to Decisions CRC who graciously support my candidature._  
-<iframe width="100%" height="100%" src="https://www.youtube.com/embed/8yMOz9hCWyY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/8yMOz9hCWyY' frameborder='0' allowfullscreen></iframe></div>
 
 ***
 

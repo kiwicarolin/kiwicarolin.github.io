@@ -41,6 +41,6 @@ _Tools: Google Glass, Processing for Android [Design and development]_
 PAN is a remote collaboration tool that allows panorama images to be explored in real time between a Google Glass user and a remote tablet user. 
 A variety of cues support awareness and annotations. 
 
-<iframe src="https://player.vimeo.com/video/110002088" width="100%" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/110002088' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
 [back](./)

@@ -76,7 +76,7 @@ PAN is a remote collaboration tool that allows panorama images to be explored in
 A variety of different cues were analysed to depict the best user experience on each medium. 
 
 
-### Corporate branding material for BAADER Konzept
+### Corporate print material for BAADER KONZEPT
 _Tools: Adobe Indesign [design and complete production of printed materials]_
 
 ![BAADER](/assets/img/baader.jpg)

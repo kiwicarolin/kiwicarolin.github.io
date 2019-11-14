@@ -77,7 +77,7 @@ A variety of different cues were analysed to depict the best user experience on 
 
 
 ### Corporate print material for BAADER KONZEPT
-_Tools: Adobe Indesign [design and complete production of printed materials]_
+_Tools: Adobe Indesign [design, illustrations and print production]_
 
 ![BAADER](/assets/img/baader.jpg)
 

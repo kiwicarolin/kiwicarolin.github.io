@@ -38,14 +38,13 @@ Holodeck is an interactive installation for the Deutsches Museum that visualises
 A piece of glass was installed above the screen that conveys the illusion of floating holograms, transporting the idea of the fragility of the topic. 
 
 ### KAVOK 
-_Tools: Adobe Photoshop, Fireworks and Illustrator [contributing UI design, wireframes]_
+_Tools: Adobe Photoshop, Fireworks and Illustrator [contributing UI design]_
 
 KAVOK was an asset management system designed to browse large files with an integrated task management system. 
 
 ![KAVOK](/assets/img/KAVOK2.png)
 
-This involved the entire creative process of creating personas, wireframes up to the final UI with pixel-perfect icons. 
-
+This involved the early stages design work from generating wireframes up to the final UI with pixel-perfect icons. 
 
 ![KAVOK](/assets/img/Kavok03.jpg)
 

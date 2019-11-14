@@ -45,6 +45,12 @@ KAVOK was an asset management system designed to browse large files with an inte
 ![KAVOK](/assets/img/KAVOK2.png)
 
 
+![KAVOK](/assets/img/KAVOK3.png)
+
+This involved the entire creative process of creating personas, wireframes up to the final UI with pixel-perfect icons. 
+
+
+
 ### decoded – conference 
 _Tools: Processing [generative design]_ 
 

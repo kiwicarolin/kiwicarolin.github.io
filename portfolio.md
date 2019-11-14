@@ -60,7 +60,7 @@ The logo was created via code, with each key stroke creating new shapes.
 Every speaker and attending guest received a name badge with their individual shape.
 
 ### Exploring Graphs
-_Tools: Unity and Leap Motion [Design and UI implementation]_
+_Tools: Oculus Rift, Unity and Leap Motion [Design and UI implementation]_
 
 Viewing a graph with hand gestures. A bigger version of the graph was shown via world in miniature to navigate. 
 

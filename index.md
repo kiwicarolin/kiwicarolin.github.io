@@ -4,9 +4,7 @@ layout: default
 
 ## Building AR/VR technology for novel future use
 
-* Exploring new interactive ways to view reconstructed environments in Virtual Reality
-* Investigating the impact of Virtual Reality on decision-making, attention and memory in a reconstructed scene following a narrative 
-* Establishing novel guidelines for future use of Virtual Reality in court
+ I specialise in finding innovative ways to use emerging technologies to solve current problems and how they could have a real impact on people. My goal is to explore future AR/VR applications that delight and inspire in entirely new problem spaces.
 
 **[Have a look at some past and ongoing work](./portfolio.html)**
 
@@ -25,12 +23,12 @@ _My research is possible thanks to the Data to Decisions CRC who graciously supp
 
 ## Specialties
 
-* Create impactful AR/VR applications to change how we view the future 
+* Create impactful AR/VR applications for a new outlook on how we view the future  
+* Prototype ideas, experiences and scenarios in the intersection of science, design and development
 * Passionate about radically improving how we interact with new technology 
-* Innovate through design thinking to solve problems in less explored spaces
+* Use design thinking approaches to solve problems creatively in completely new landscapes
 * Generate user insights through user research using mixed methods and interpreting its data 
 * Collaborating with a range of professions and speaking their language 
-* Create copies of reality via 3D reconstruction 
 
 ***
 

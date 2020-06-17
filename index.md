@@ -2,12 +2,11 @@
 layout: default
 ---
 
-## Building AR/VR technology for meaningful use  
+## Building AR/VR technology for novel future use
 
-* Exploring interactive reconstructed crime scenes in Virtual Reality for better understanding of the events that transpired
+* Exploring new interactive ways to view reconstructed environments in Virtual Reality
 * Investigating the impact of Virtual Reality on decision-making, attention and memory in a reconstructed scene following a narrative 
-* Improving presentation of forensic evidence for better understanding by the Jury
-* Establishing guidelines for future use of Virtual Reality in court
+* Establishing novel guidelines for future use of Virtual Reality in court
 
 **[Have a look at some past and ongoing work](./portfolio.html)**
 
@@ -24,13 +23,14 @@ _My research is possible thanks to the Data to Decisions CRC who graciously supp
 
 ***
 
-## Skills
+## Specialties
 
-* Developing interactive Virtual Reality applications in Unity
-* Innovation through design thinking for better user experience 
-* Designing and carrying out user studies for Virtual and Augmented Reality
-* 3D Reconstruction: Laser scanning and photogrammetry
-* Data Analysis
+* Create impactful AR/VR applications to change how we view the future 
+* Passionate about radically improving how we interact with new technology 
+* Innovate through design thinking to solve problems in less explored spaces
+* Generate user insights through user research using mixed methods and interpreting its data 
+* Collaborating with a range of professions and speaking their language 
+* Create copies of reality via 3D reconstruction 
 
 ***
 

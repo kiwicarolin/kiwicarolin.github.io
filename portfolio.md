@@ -21,7 +21,7 @@ _Tools: Unity, Mapbox and QGis [Design and contributing developer]_
 Precision Group, owner of several shopping centres across Australia, was looking for an innovative idea to increase dwelling time in their centres. 
 ShopTrotter lets people earn rewards the more time they spend exploring the centre. 
 
-Implementation of the feature into the app will commence in November and roll out for all shopping centres early next year. 
+Implementation of the feature into the app will commence in 2020 and will be rolled out to six shopping centres in Australia. 
 
 ![Main screen of ShopTrotter](/assets/img/Main.jpg)
 The app features an indoor map with points of interests that support the visitor to reach their goals. 
@@ -62,12 +62,14 @@ Every speaker and attending guest received a name badge with their individual sh
 
 ***
 
-### Exploring Graphs
+### Trails – Exploring Graphs
 _Tools: Oculus Rift, Unity and Leap Motion [Design and UI implementation]_
+
+![Image of Trails](/assets/img/Trails.PNG)
 
 Viewing a graph with hand gestures. A bigger version of the graph was shown via world in miniature to navigate. 
 
-![Image of Trails](/assets/img/Trails.PNG)
+<video width="100%" controls muted>  <source src="/assets/videos/bpa.mp4" type="video/mp4"></video>
 
 ### Google Glass Remote Collaboration
 _Tools: Google Glass, Processing for Android [Design and development]_

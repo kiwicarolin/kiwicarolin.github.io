@@ -69,7 +69,7 @@ _Tools: Oculus Rift, Unity and Leap Motion [Design and UI implementation]_
 
 Viewing a graph with hand gestures. A bigger version of the graph was shown via world in miniature to navigate. 
 
-<video width="100%" controls muted>  <source src="/assets/videos/bpa.mp4" type="video/mp4"></video>
+<video width="100%" controls muted>  <source src="/assets/videos/GraphLeap.mp4" type="video/mp4"></video>
 
 ### Google Glass Remote Collaboration
 _Tools: Google Glass, Processing for Android [Design and development]_

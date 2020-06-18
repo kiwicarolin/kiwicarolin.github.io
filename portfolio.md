@@ -4,19 +4,11 @@ layout: default
 
 ## Past and Ongoing Work
 
-### Virtual Reality for Crime Scene Visualisation [PhD]
-### [Have a look at some past and ongoing work](./PhD.html)
-_Tools: Unity, HTC Vive, FARO Laser scanner, point cloud visualisation tools [User research, design and development]_
+### [Virtual Reality for Crime Scene Visualisation [PhD](./PhD.html)
 
-Reconstructing the event of a serious crime can be a major challenge for the jury. During my initial interviews with prosecution and defence attorneys, they highlighted the importance of a jury being able to experience the scene. The court is willing to take on significant expenses to provide jurors a site viewing, despite the fact that this could be months or years after the crime occurred with a scene that may have changed drastically. But what if the viewer could see the original scene just as it was? I wondered if VR could provide the perfect opportunity to improve a potentially life-altering process.
+Virtual Reality has the unique capability to provide the illusion of being somewhere else – And feel like _being there_. Could this potentially help a jury to better understand how a crime transpired during a trial? The research in my PhD revolves around this very question and the impact VR could have on a person to better remember its environment, the impact on decision-making and supporting the communication of specialised information that is forensic evidence. The better the scene and the event is understood by the jury, the more likely it is to have a really good outcome in court with the right answers obtained.
 
-<video width="100%" controls muted autoplay>  <source src="/assets/videos/HitAndRunExperiment.mp4" type="video/mp4"></video>
-Participants viewed a fictional hit and run scenario and had to memorise items found at the scene and make a verdict. 
-
-<video width="100%" controls>  <source src="/assets/videos/bpa.mp4" type="video/mp4"></video>
-Can VR support attention and understanding of forensic information that has a spatial component? As the user is listening to an expert statement, the environment is going to highlight the areas they should be paying attention to. 
-
-
+![Visual Cues for Forensic Evidence](/assets/videos/GifArrows.gif)
 
 ***
 

@@ -4,7 +4,7 @@ layout: default
 
 ## Building the future of AR/VR 
 
- I believe the future of AR/VR is built on finding answers to meaningful questions that **identify the benefits of AR/VR and apply them to products that empower its users**.
+ **I believe the future of AR/VR is built on finding answers to meaningful questions that identify the benefits of AR/VR and apply them to products that empower its users**.
  
  I specialise in finding innovative ways to use emerging technologies to solve current problems and how they could have a real impact on people. My goal is to explore future AR/VR applications that delight and inspire in entirely new problem spaces. 
 
@@ -24,7 +24,7 @@ _My research is graciously supported by the [Data to Decisions CRC](https://www.
 * Passionate about radically improving how we interact with new technology 
 * Use design thinking approaches to solve problems creatively in completely new landscapes
 * Generate user insights through user research using mixed methods and interpreting its data 
-* Collaborating with a range of professions and speaking their language 
+* Effective collaborator with different professions to work successfully towards a common goal  
 
 ***
 

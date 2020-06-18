@@ -4,22 +4,23 @@ layout: default
 
 ## Past and Ongoing Work
 
-### [Virtual Reality for Crime Scene Visualisation](./PhD.html)
+### Virtual Reality for Crime Scene Visualisation
 
 Virtual Reality has the unique capability to provide the illusion of being somewhere else – And feel like _being there_. Could this potentially help a jury to better understand how a crime transpired during a trial? The research in my PhD revolves around this very question and the impact VR could have on a person to better remember its environment, the impact on decision-making and supporting the communication of specialised information that is forensic evidence. The better the scene and the event is understood by the jury, the more likely it is to have a really good outcome in court with the right answers obtained.
 
 ![Visual Cues for Forensic Evidence](/assets/videos/GifArrows.gif)
 
+**[Click for more information](./PhD.html)**
+
 ***
 
-### Trails – Exploring Graphs
-_Tools: Oculus Rift, Unity and Leap Motion [Design and UI implementation]_
+### Trails – Interactive exploration of graphs 
+
+Viewing large data sets in VR can be challenging. Being immersed in the data itself may mean losing sight of the overall context. This project aimed at using natural hand gestures with world-in-miniature visualisations to navigate large graphs, offering context and detail. 
 
 ![Image of Trails](/assets/img/Trails.PNG)
 
-Viewing a graph with hand gestures. A bigger version of the graph was shown via world in miniature to navigate. 
-
-<video width="100%" controls muted>  <source src="/assets/videos/GraphLeap.mp4" type="video/mp4"></video>
+**[Click for more information](./Trails.html)**
 
 ***
 

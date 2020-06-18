@@ -12,8 +12,31 @@ Reconstructing the event of a serious crime can be a major challenge for the jur
 <video width="100%" controls muted autoplay>  <source src="/assets/videos/HitAndRunExperiment.mp4" type="video/mp4"></video>
 Participants viewed a fictional hit and run scenario and had to memorise items found at the scene and make a verdict. 
 
-<video width="100%" controls muted>  <source src="/assets/videos/bpa.mp4" type="video/mp4"></video>
+<video width="100%" controls>  <source src="/assets/videos/bpa.mp4" type="video/mp4"></video>
 Can VR support attention and understanding of forensic information that has a spatial component? As the user is listening to an expert statement, the environment is going to highlight the areas they should be paying attention to. 
+
+***
+
+### Trails – Exploring Graphs
+_Tools: Oculus Rift, Unity and Leap Motion [Design and UI implementation]_
+
+![Image of Trails](/assets/img/Trails.PNG)
+
+Viewing a graph with hand gestures. A bigger version of the graph was shown via world in miniature to navigate. 
+
+<video width="100%" controls muted>  <source src="/assets/videos/GraphLeap.mp4" type="video/mp4"></video>
+
+***
+
+### Google Glass Remote Collaboration
+_Tools: Google Glass, Processing for Android [Design and development]_
+
+PAN is a remote collaboration tool that allows panorama images to be explored in real time between a Google Glass user and a remote tablet user. 
+A variety of different cues were analysed to depict the best user experience on each medium. 
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/110002088' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+
+***
 
 ### ShopTrotter: Loyalty Program for Shopping Malls 
 _Tools: Unity, Mapbox and QGis [Design and contributing developer]_
@@ -27,6 +50,8 @@ Implementation of the feature into the app will commence in 2020 and will be rol
 The app features an indoor map with points of interests that support the visitor to reach their goals. 
 
 ![Stamps](/assets/img/Screens.jpg)
+
+***
 
 ### Holodeck for the Deutsches Museum
 _Tools: Adobe Flash [contributing UX designer]_
@@ -50,6 +75,7 @@ This involved the early stages design work from generating wireframes up to the 
 
 ![KAVOK](/assets/img/Kavok03.jpg)
 
+***
 
 ### decoded – conference 
 _Tools: Processing [generative design]_ 
@@ -59,26 +85,6 @@ The logo was created via code, with each key stroke creating new shapes.
 Every speaker and attending guest received a name badge with their individual shape.
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/29425131' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
-
-***
-
-### Trails – Exploring Graphs
-_Tools: Oculus Rift, Unity and Leap Motion [Design and UI implementation]_
-
-![Image of Trails](/assets/img/Trails.PNG)
-
-Viewing a graph with hand gestures. A bigger version of the graph was shown via world in miniature to navigate. 
-
-<video width="100%" controls muted>  <source src="/assets/videos/GraphLeap.mp4" type="video/mp4"></video>
-
-### Google Glass Remote Collaboration
-_Tools: Google Glass, Processing for Android [Design and development]_
-
-PAN is a remote collaboration tool that allows panorama images to be explored in real time between a Google Glass user and a remote tablet user. 
-A variety of different cues were analysed to depict the best user experience on each medium. 
-
-
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/110002088' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
 ***
 

@@ -4,7 +4,9 @@ layout: default
 
 ## Building the future of AR/VR 
 
- _The future of AR/VR is built on finding the answers to meaningful questions that identify the benefits of AR/VR and apply them to products that empower its users._ I specialise in finding innovative ways to use emerging technologies to solve current problems and how they could have a real impact on people. My goal is to explore future AR/VR applications that delight and inspire in entirely new problem spaces. 
+ _The future of AR/VR is built on finding the answers to meaningful questions that identify the benefits of AR/VR and apply them to products that empower its users._ 
+ 
+ I specialise in finding innovative ways to use emerging technologies to solve current problems and how they could have a real impact on people. My goal is to explore future AR/VR applications that delight and inspire in entirely new problem spaces. 
 
 **[Have a look at some past and ongoing work](./portfolio.html)**
 

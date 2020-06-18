@@ -4,7 +4,7 @@ layout: default
 
 ## Past and Ongoing Work
 
-### [Virtual Reality for Crime Scene Visualisation [PhD](./PhD.html)
+### [Virtual Reality for Crime Scene Visualisation](./PhD.html)
 
 Virtual Reality has the unique capability to provide the illusion of being somewhere else – And feel like _being there_. Could this potentially help a jury to better understand how a crime transpired during a trial? The research in my PhD revolves around this very question and the impact VR could have on a person to better remember its environment, the impact on decision-making and supporting the communication of specialised information that is forensic evidence. The better the scene and the event is understood by the jury, the more likely it is to have a really good outcome in court with the right answers obtained.
 

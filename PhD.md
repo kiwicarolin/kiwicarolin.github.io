@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### Virtual Reality for Crime Scene Visualisation [PhD]
+### Virtual Reality for Crime Scene Visualisation
 _Tools: Unity, HTC Vive, FARO Laser scanner, point cloud visualisation tools [User research, design and development]_
 
 Reconstructing the event of a serious crime can be a major challenge for the jury. During my initial interviews with prosecution and defence attorneys, they highlighted the importance of a jury being able to experience the scene. The court is willing to take on significant expenses to provide jurors a site viewing, despite the fact that this could be months or years after the crime occurred with a scene that may have changed drastically. But what if the viewer could see the original scene just as it was? I wondered if VR could provide the perfect opportunity to improve a potentially life-altering process.

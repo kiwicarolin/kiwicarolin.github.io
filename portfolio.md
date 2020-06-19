@@ -27,9 +27,8 @@ Viewing large data sets in VR can be challenging. Being immersed in the data its
 ***
 
 ### ShopTrotter: Loyalty Program for Shopping Malls 
-_Tools: Unity, Mapbox and QGis [Design and contributing developer]_
 
-ShopTrotter was the winning pitch at the Retail Game Changer Challenge 2019, a competition targeted at creating a mobile solution that would entice visitors to dwell longer. This resulted in $25 000 AUD towards the foundation of our startup Nisus Development Pty. 
+ShopTrotter was the winning pitch at the Retail Game Changer Challenge 2019, a competition targeted at creating a mobile solution that would entice visitors to dwell longer. This resulted in $25 000 AUD to kickstart Nisus Development Pty Ltd. 
 
 ![Main screen of ShopTrotter](/assets/img/Main.jpg)
 

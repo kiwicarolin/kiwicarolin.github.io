@@ -6,7 +6,9 @@ layout: default
 
 ### Virtual Reality for Crime Scene Visualisation
 
-Virtual Reality has the unique capability to provide the illusion of being somewhere else – And feel like _being there_. Could this potentially help a jury to better understand how a crime transpired during a trial? The research in my PhD revolves around this very question and the impact VR could have on a person to better remember its environment, the impact on decision-making and supporting the communication of specialised information that is forensic evidence. The better the scene and the event is understood by the jury, the more likely it is to have a really good outcome in court with the right answers obtained.
+Virtual Reality has the unique capability to provide the illusion of being somewhere else – And feel like _being there_. Could this potentially help a jury to better understand how a crime transpired during a trial? 
+
+The research in my PhD revolves around this very question and the impact VR could have on a person to better remember its environment, the impact on decision-making and supporting the communication of specialised information that is forensic evidence. The better the scene and the event is understood by the jury, the more likely it is to have a really good outcome in court with the right answers obtained.
 
 ![Visual Cues for Forensic Evidence](/assets/videos/GifArrows.gif)
 
@@ -16,7 +18,7 @@ Virtual Reality has the unique capability to provide the illusion of being somew
 
 ### Trails – Interactive exploration of graphs 
 
-Viewing large data sets in VR can be challenging. Being immersed in the data itself may mean losing sight of the overall context. This project aimed at using natural hand gestures with world-in-miniature visualisations to navigate large graphs, offering context and detail. 
+Viewing large data sets in VR can be challenging. Being immersed in the data itself may mean losing sight of the overall context. This research aimed at using natural hand gestures with world-in-miniature visualisations to navigate large graphs, offering context and detail. 
 
 ![Image of Trails](/assets/img/Trails.PNG)
 
@@ -27,10 +29,11 @@ Viewing large data sets in VR can be challenging. Being immersed in the data its
 ### Google Glass Remote Collaboration
 _Tools: Google Glass, Processing for Android [Design and development]_
 
-PAN is a remote collaboration tool that allows panorama images to be explored in real time between a Google Glass user and a remote tablet user. 
-A variety of different cues were analysed to depict the best user experience on each medium. 
+The idea of Social Panorama is of a remote collaboration tool that allows panorama images to be explored in real time between a Google Glass user and a remote tablet user. A variety of different cues were analysed to depict the best user experience on each medium. 
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/110002088' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+![BAADER](/assets/img/SPConcept.png)
+
+**[Click for more information](./SocialPanorama.html)**
 
 ***
 

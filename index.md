@@ -95,8 +95,6 @@ Fundamentals of Wearable Computers and Augmented Reality, 2nd Edition, CRC Press
 
 Mark Billinghurst, Alaeddin Nassani, and **Carolin Reichherzer**. 2014. Social panoramas: using wearable computers to share experiences. In SIGGRAPH Asia 2014 Mobile Graphics and Interactive Applications (SA '14). ACM, New York, NY, USA, Article 25, 1 pages.
 
-![Point Cloud with blood spatter pattern](/assets/img/BPA.png)
-
 *** 
 
 ![Reconstructed with Photogrammetry – Model in Unity3D](/assets/img/Reconstruction.jpg)

@@ -31,7 +31,7 @@ _Tools: Google Glass, Processing for Android [Design and development]_
 
 The idea of Social Panorama is of a remote collaboration tool that allows panorama images to be explored in real time between a Google Glass user and a remote tablet user. A variety of different cues were analysed to depict the best user experience on each medium. 
 
-![BAADER](/assets/img/SPConcept.png)
+![Social Panorama](/assets/img/SPConcept.png)
 
 **[Click for more information](./SocialPanorama.html)**
 
@@ -40,15 +40,11 @@ The idea of Social Panorama is of a remote collaboration tool that allows panora
 ### ShopTrotter: Loyalty Program for Shopping Malls 
 _Tools: Unity, Mapbox and QGis [Design and contributing developer]_
 
-Precision Group, owner of several shopping centres across Australia, was looking for an innovative idea to increase dwelling time in their centres. 
-ShopTrotter lets people earn rewards the more time they spend exploring the centre. 
-
-Implementation of the feature into the app will commence in 2020 and will be rolled out to six shopping centres in Australia. 
+ShopTrotter was the winning pitch at the Retail Game Changer Challenge 2019, a competition targeted at creating a mobile solution that would entice visitors to dwell longer. This resulted in $25 000 AUD towards the foundation of our startup Nisus Development Pty. 
 
 ![Main screen of ShopTrotter](/assets/img/Main.jpg)
-The app features an indoor map with points of interests that support the visitor to reach their goals. 
 
-![Stamps](/assets/img/Screens.jpg)
+**[Click for more information](./ShopTrotter.html)**
 
 ***
 

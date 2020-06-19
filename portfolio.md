@@ -26,17 +26,6 @@ Viewing large data sets in VR can be challenging. Being immersed in the data its
 
 ***
 
-### Google Glass Remote Collaboration
-_Tools: Google Glass, Processing for Android [Design and development]_
-
-The idea of Social Panorama is of a remote collaboration tool that allows panorama images to be explored in real time between a Google Glass user and a remote tablet user. A variety of different cues were analysed to depict the best user experience on each medium. 
-
-![Social Panorama](/assets/img/SPConcept.png)
-
-**[Click for more information](./SocialPanorama.html)**
-
-***
-
 ### ShopTrotter: Loyalty Program for Shopping Malls 
 _Tools: Unity, Mapbox and QGis [Design and contributing developer]_
 
@@ -45,6 +34,17 @@ ShopTrotter was the winning pitch at the Retail Game Changer Challenge 2019, a c
 ![Main screen of ShopTrotter](/assets/img/Main.jpg)
 
 **[Click for more information](./ShopTrotter.html)**
+
+***
+
+### Google Glass Remote Collaboration
+_Tools: Google Glass, Processing for Android [Design and development]_
+
+The idea of Social Panorama is of a remote collaboration tool that allows panorama images to be explored in real time between a Google Glass user and a remote tablet user. A variety of different cues were analysed to depict the best user experience on each medium. 
+
+![Social Panorama](/assets/img/SPConcept.png)
+
+**[Click for more information](./SocialPanorama.html)**
 
 ***
 

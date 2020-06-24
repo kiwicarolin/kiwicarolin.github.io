@@ -2,7 +2,6 @@
 layout: default
 ---
 ### Holodeck for the Deutsches Museum
-_Tools: Adobe Flash [contributing UX designer]_
 
 Holodeck is an interactive installation for the Deutsches Museum that visualises Osteoporosis. 
 A piece of glass was installed above the screen that conveys the illusion of floating holograms, transporting the idea of the fragility of the topic. 
@@ -12,17 +11,18 @@ A piece of glass was installed above the screen that conveys the illusion of flo
 ***
 
 ### KAVOK 
-_Tools: Adobe Photoshop, Fireworks and Illustrator [contributing UI design]_
 
 KAVOK was an asset management system designed to browse large files with an integrated task management system. 
 This involved the early stages design work from generating wireframes up to the final UI with pixel-perfect icons. 
+
+![KAVOK](/assets/img/Kavok02.jpg)
+
 
 ![KAVOK](/assets/img/Kavok03.jpg)
 
 ***
 
 ### decoded – conference 
-_Tools: Processing [generative design]_ 
 
 _decoded_ was a conference dedicated to creative technologists, UX designers and developers. 
 The logo was created via code, with each key stroke creating new shapes. 

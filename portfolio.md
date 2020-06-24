@@ -48,7 +48,7 @@ The idea of Social Panorama is of a remote collaboration tool that allows panora
 
 ### UX and UI work
 
-I've worked on a range of UI and interactive UX projects that involves the entire project cycle. It included creating storyboards, userflows and wireframes to pixel-perfect assets as well as development of generative design elements. 
+I've worked on a range of UI and interactive UX projects spanning the entire project cycle. It included creating storyboards, userflows and wireframes to pixel-perfect assets as well as development of generative design elements. 
 
 ![KAVOK](/assets/img/KAVOK2.png)
 
@@ -56,10 +56,9 @@ I've worked on a range of UI and interactive UX projects that involves the entir
 
 ***
 
-### Corporate print material for BAADER KONZEPT
-_Tools: Adobe Indesign [design, illustrations and print production]_
+### Corporate Branding
 
-Designed a range of branded material from conception to production. 
+In the past I have focused on communicating a brand message and help design the visual language of a brand. I designed a range of branded material from conception to print production. 
 
 ![BAADER](/assets/img/baader.jpg)
 

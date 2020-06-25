@@ -15,7 +15,7 @@ A piece of glass was installed above the screen that conveys the illusion of flo
 KAVOK was an asset management system designed to browse large files with an integrated task management system. 
 This involved the early stages design work from generating wireframes up to the final UI with pixel-perfect icons. 
 
-![KAVOK](/assets/img/Kavok02.jpg)
+![KAVOK](/assets/img/KAVOK.png)
 
 
 ![KAVOK](/assets/img/Kavok03.jpg)

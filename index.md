@@ -8,7 +8,7 @@ layout: default
  
  When I first encountered AR the ability to combine digital and real experinces captivated me – And I decided I wanted to be at the forefront of this exciting technology with a huge potential impact on society and the way it brings people closer together. 
  
- I specialise in finding innovative ways to use emerging technologies to solve current problems and how they could have a real impact on people. My goal is to explore future AR/VR applications that delight and inspire in entirely new problem spaces. I have also co-founded a company dedicated to creating meaningful AR/VR experiences [Nisus Development](https://www.nisus.dev/).
+ I specialise in finding innovative ways to use emerging technologies to solve current problems and how they could have a real impact on people. My goal is to explore future AR/VR applications that delight and inspire in entirely new problem spaces. Recently, I have also co-founded a company dedicated to creating meaningful AR/VR experiences [Nisus Development](https://www.nisus.dev/).
 
 **[Have a look at some past and ongoing work](./portfolio.html)**
 

@@ -83,10 +83,8 @@ _My research is graciously supported by the [Data to Decisions CRC](https://www.
 * Augmented Reality Interaction
 
 **Volunteer**
-* Women in STEM Club UniSA: Planning Director. I defined the groups core vision of Innovation, Inclusion and Inspiration. I am also responsible for creating and maintaining our project schedules and help acquire grants. 
+* Women in STEM Club UniSA: Co-Founder and Planning Director. I defined the groups core vision of Innovation, Inclusion and Inspiration. I am also responsible for creating and maintaining our project schedules and help acquire grants. 
 * Code like a girl: Event volunteer and panelist
-![Code Like a Girl](/assets/img/clg.PNG)
-
 
 ***
 

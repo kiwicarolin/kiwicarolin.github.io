@@ -5,8 +5,9 @@ layout: default
 ## Building the future of AR/VR 
 
  I believe the future of AR/VR is built on finding answers to meaningful questions that identify the benefits of AR/VR to create products with impact. 
+ When I first encountered AR the ability to combine digital and real experinces captivated me – And I decided I wanted to be at the forefront of this exciting technology with a huge potential impact on society and the way it brings people closer together. 
  
- I specialise in finding innovative ways to use emerging technologies to solve current problems and how they could have a real impact on people. My goal is to explore future AR/VR applications that delight and inspire in entirely new problem spaces. 
+ I specialise in finding innovative ways to use emerging technologies to solve current problems and how they could have a real impact on people. My goal is to explore future AR/VR applications that delight and inspire in entirely new problem spaces. I have also co-founded a company dedicated to creating meaningful AR/VR experiences [Nisus Development](https://www.nisus.dev/).
 
 **[Have a look at some past and ongoing work](./portfolio.html)**
 
@@ -83,7 +84,7 @@ _My research is graciously supported by the [Data to Decisions CRC](https://www.
 
 **Volunteer**
 * Women in STEM Club UniSA: Planning Director. I defined the groups core vision of Innovation, Inclusion and Inspiration. I am also responsible for creating and maintaining our project schedules and help acquire grants. 
-* Code like a girl: Event volunteer
+* Code like a girl: Event volunteer and panelist
 
 ***
 

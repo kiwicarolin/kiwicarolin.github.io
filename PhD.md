@@ -11,6 +11,8 @@ Reconstructing the event of a serious crime can be a major challenge for the jur
 
 Participants viewed a fictional hit and run scenario and had to memorise items found at the scene and make a verdict. They then had to make a decision – Was the driver at fault? Participants came to very different conclusions depending on if they viewed it as still images or in VR. While people viewing still images were divided in their opinion, those who had viewed the scene in VR were consistent in their conclusion.  Participants in VR also remembered their environment significantly better and were able to place evidence items more accurately where they belonged. 
 
+***
+
 ### Improving comprehension of expert statements through Virtual Reality
 
 The presentation of expert statements, such as forensic scientists, is an important piece of evidence in court. The expert has to convey highly specialised knowledge in a way that a juror can understand and apply to the case. My question was if VR can support the presentation of such information that increases comprehension where spatial informaton is important? 

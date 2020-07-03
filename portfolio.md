@@ -16,6 +16,16 @@ The research in my PhD revolves around this very question and the impact VR coul
 
 ***
 
+### 3D Reconstruction through Photogrammetry and Lasers 
+
+Photogrammetry is the process of recreating objects or environments through the interpretation of a range of photographs taken from different angles. The 3D models generated out of this process can provide high quality assets to be used in VR. 
+
+![Photogrammetry](/assets/img/Photogrammetry.png)
+
+[More information to come]
+
+***
+
 ### Trails – Interactive exploration of graphs 
 
 Viewing large data sets in VR can be challenging. Being immersed in the data itself may mean losing sight of the overall context. This research aimed at using natural hand gestures with world-in-miniature visualisations to navigate large graphs, offering context and detail. 

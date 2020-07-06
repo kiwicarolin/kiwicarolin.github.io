@@ -68,9 +68,16 @@ I've worked on a range of UI and interactive UX projects spanning the entire pro
 
 ### Corporate Branding
 
-In the past I have focused on communicating a brand message and help design the visual language of a brand. I designed a range of branded material from conception to print production. 
+In the past I have focused on communicating a brand message and help design the visual language of a brand. I designed a range of branded material from conception to digital and print production. 
 
+![BAADER](/assets/img/baader_title.jpg)
 ![BAADER](/assets/img/baader.jpg)
+![ZDF](/assets/img/lebenswege2.jpg)
+![ZDF](/assets/img/zdf_wetterwissen.jpg)
+
+
+
+
 
 
 

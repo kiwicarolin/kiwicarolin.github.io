@@ -102,7 +102,7 @@ Mark Billinghurst, Alaeddin Nassani, and **Carolin Reichherzer**. 2014. Social p
 
 *** 
 
-![Reconstructed with Photogrammetry – Model in Unity3D](/assets/img/Reconstruction.jpg)
+![Volunteering](/assets/img/clg.PNG)
 
 
 

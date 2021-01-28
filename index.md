@@ -13,7 +13,7 @@ layout: default
 **[Have a look at some past and ongoing work](./portfolio.html)**
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/8yMOz9hCWyY' frameborder='0' allowfullscreen></iframe></div>
-_My research is graciously supported by the [Data to Decisions CRC](https://www.d2dcrc.com.au/)._  
+_My PhD was graciously supported by the [Data to Decisions CRC](https://www.d2dcrc.com.au/)._  
 
 
 
@@ -90,6 +90,8 @@ _My research is graciously supported by the [Data to Decisions CRC](https://www.
 ***
 
 ## Publications 
+
+**Carolin Reichherzer**, Andrew Cunningham, Tracey Coleman, Ruochen Cao, Kurt McManus, Dion Sheppard, Mark Kohler, Mark Billinghurst, and BruceH. Thomas. 2021. Bringing the Jury to the Scene of the Crime: Memory and Decision-Making in a Simulated Crime Scene. InCHI Conference on Human Factors in Computing Systems (CHI ’21), May 8–13, 2021, Yokohama, Japan.ACM, New York, NY, USA, 12 pages.
 
 **C. Reichherzer**, A. Cunningham, J. Walsh, M. Kohler, M. Billinghurst and B. H. Thomas, "Narrative and Spatial Memory for Jury Viewings in a Reconstructed Virtual Environment," in IEEE Transactions on Visualization & Computer Graphics, vol. 24, no. 11, pp. 2917-2926, 2018. 
 

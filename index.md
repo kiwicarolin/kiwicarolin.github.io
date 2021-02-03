@@ -4,11 +4,11 @@ layout: default
 
 ## Building the future of AR/VR 
 
- I believe the future of AR/VR is built on finding answers to meaningful questions that identify the benefits of AR/VR to create products with impact. 
+ I believe the future of AR/VR is built on finding answers to meaningful questions that identify the benefits of AR/VR to create products with impact. When I first encountered AR the ability to combine digital and real experinces captivated me – And I decided I wanted to be at the forefront of this exciting technology with a huge potential impact on society and the way it brings people closer together. 
  
- When I first encountered AR the ability to combine digital and real experinces captivated me – And I decided I wanted to be at the forefront of this exciting technology with a huge potential impact on society and the way it brings people closer together. 
+ I specialise in finding innovative ways to use emerging technologies to solve current problems and how they could have a real impact on people – with a particular love for 3D reconstruction and spatial understanding. I've got extensive experience in the reconstruction of objects and environments with a variety of techniques (photogrammetry/LiDAR/3D cameras), how it impacts cognition of users in AR/VR to improve collaboration and performance. 
  
- I specialise in finding innovative ways to use emerging technologies to solve current problems and how they could have a real impact on people. My goal is to explore future AR/VR applications that delight and inspire in entirely new problem spaces. Recently, I have also co-founded a company dedicated to creating meaningful AR/VR experiences [Nisus Development](https://www.nisus.dev/).
+ My goal is to explore future AR/VR applications that delight and inspire in entirely new problem spaces. Recently, I have also co-founded a company dedicated to creating meaningful AR/VR experiences [Nisus Development](https://www.nisus.dev/).
 
 **[Have a look at some past and ongoing work](./portfolio.html)**
 

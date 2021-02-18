@@ -2,6 +2,13 @@
 layout: default
 ---
 
+### Virtual Reality for Law Enforcement and Forensics 
+
+I spent several years assessing the use of Virtual Reality for courtroom presentation, focusing on a seamless interactive experiences that supports spatial awareness and memory. 
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/8yMOz9hCWyY' frameborder='0' allowfullscreen></iframe></div>
+_My PhD was graciously supported by the [Data to Decisions CRC](https://www.d2dcrc.com.au/)._  
+
 ### Virtual Reality for Crime Scene Visualisation
 _Tools: Unity, HTC Vive, FARO Laser scanner, point cloud visualisation tools [User research, design and development]_
 

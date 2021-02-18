@@ -4,18 +4,13 @@ layout: default
 
 ## Building the future of AR/VR 
 
- I believe the future of AR/VR is built on finding answers to meaningful questions that identify the benefits of AR/VR to create products with impact. When I first encountered AR the ability to combine digital and real experinces captivated me – And I decided I wanted to be at the forefront of this exciting technology with a huge potential impact on society and the way it brings people closer together. 
+Ever since encountering AR for the first time, I decided I wanted to be at the forefront of this exciting technology with a huge potential impact on society and the way it brings people closer together. I believe the future of AR/VR is built on finding answers to meaningful questions that identify the benefits of AR/VR to create products with impact. 
  
- I specialise in finding innovative ways to use emerging technologies to solve current problems and how they could have a real impact on people – with a particular love for 3D reconstruction and spatial understanding. I've got extensive experience in the reconstruction of objects and environments with a variety of techniques (photogrammetry/LiDAR/3D cameras), how it impacts cognition of users in AR/VR to improve collaboration and performance. 
+ I specialise in finding innovative ways to use emerging technologies to solve current problems and how they could have a real impact on people – with a particular love for everything 3D reconstruction. I've got extensive experience in the reconstruction of objects and environments with a variety of techniques (photogrammetry/LiDAR/3D cameras). I am particularly interested in industrial applications and how it affects human cognition of users in immersive environments to provide a superior experience. 
  
  My goal is to explore future AR/VR applications that delight and inspire in entirely new problem spaces. Recently, I have also co-founded a company dedicated to creating meaningful AR/VR experiences [Nisus Development](https://www.nisus.dev/).
 
 **[Have a look at some past and ongoing work](./portfolio.html)**
-
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/8yMOz9hCWyY' frameborder='0' allowfullscreen></iframe></div>
-_My PhD was graciously supported by the [Data to Decisions CRC](https://www.d2dcrc.com.au/)._  
-
-
 
 ***
 
@@ -23,6 +18,8 @@ _My PhD was graciously supported by the [Data to Decisions CRC](https://www.d2dc
 
 * Create impactful AR/VR applications for a new outlook on how we view the future  
 * Prototype ideas, experiences and scenarios in the intersection of science, design and development
+* Extensive experience in generating high quality 3D reconstruction 
+* Assessing the cognitive impact of AR/VR in collaborative and single user settings 
 * Passionate about radically improving how we interact with new technology 
 * Use design thinking approaches to solve problems creatively in completely new landscapes
 * Generate user insights through user research using mixed methods and interpreting its data 

@@ -9,7 +9,7 @@ layout: default
 
 We developed a framework that facilitates the design space exploration of hybrid Augmented Reality interfaces that combine an AR head-mounted display with a smartphone. The framework supports two modes of interaction (hand gestures and head pose), adjustments of field of view, and two modes of placement for AR content (in 3D space and on a 2D plane around the smartphone).
 
-![Interaction Mode](/assets/videos/GesturesSecondSight.gif)
+![Interaction Mode](/assets/videos/SecondSightHeadPose.gif)
 
 
 _Project funded by Google Inc._ 

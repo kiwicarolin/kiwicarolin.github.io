@@ -10,14 +10,6 @@ Ever since encountering AR for the first time, I decided I wanted to be at the f
 
 **[Have a look at some past and ongoing work](./portfolio.html)**
 
-***
-
-## AR/VR Experience
-
- I specialise in finding innovative ways to use emerging technologies to solve current problems and how they could have a real impact on people – with a particular love for everything 3D reconstruction. I've got extensive experience in the reconstruction of objects and environments with a variety of techniques (photogrammetry/LiDAR/3D cameras). I am particularly interested in industrial applications and how it affects human cognition of users in immersive environments.
-
- I'm also an expert in building immersive user experiences and help establish new fundamentals in how we interact in AR/VR. I'm currently focusing on how to best combine smartphones and AR head-mounted displays to provide a delightful experience that goes beyond the touch screen. 
-
  ***
 
 ## Key Skills 
@@ -30,6 +22,14 @@ Ever since encountering AR for the first time, I decided I wanted to be at the f
 * Use design thinking approaches to solve problems creatively in completely new landscapes
 * Generate user insights through user research using mixed methods and interpreting its data 
 * Effective collaborator with different professions to work successfully towards a common goal  
+
+***
+
+## AR/VR Experience
+
+ I specialise in finding innovative ways to use emerging technologies to solve current problems and how they could have a real impact on people – with a particular love for everything 3D reconstruction. I've got extensive experience in the reconstruction of objects and environments with a variety of techniques (photogrammetry/LiDAR/3D cameras). I am particularly interested in industrial applications and how it affects human cognition of users in immersive environments.
+
+ I'm also an expert in building immersive user experiences and help establish new fundamentals in how we interact in AR/VR. I'm currently focusing on how to best combine smartphones and AR head-mounted displays to provide a delightful experience that goes beyond the touch screen. 
 
 ***
 
@@ -65,13 +65,11 @@ Ever since encountering AR for the first time, I decided I wanted to be at the f
 
 ***
 
-### Scholarships and Grants
+### Research Grants
 * Data to Decisions CRC Applied Research Grant 2019
 * Data to Decisions CRC Applied Research Grant 2018
-* Equipment Grant (UniSA): $73.900 AUD for two FARO laser scanners
-* Women in Stem Club: $10.000 AUD for workshops
-* Data to Decisions CRC PhD scholarship
-* German Academic Exchange Service (DAAD) 
+* Equipment Grant (UniSA): $73.900 AUD 
+* Women in Stem Club: $10.000 AUD 
 
 ***
 

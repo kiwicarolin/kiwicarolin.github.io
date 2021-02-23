@@ -31,6 +31,9 @@ Ever since encountering AR for the first time, I decided I wanted to be at the f
 
  I'm also an expert in building immersive user experiences and help establish new fundamentals in how we interact in AR/VR. I'm currently focusing on how to best combine smartphones and AR head-mounted displays to provide a delightful experience that goes beyond the touch screen. 
 
+ ![Interaction Mode](/assets/videos/GesturesSecondSight.gif)
+
+
 ***
 
 ## Education

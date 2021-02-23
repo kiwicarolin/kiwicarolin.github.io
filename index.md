@@ -6,13 +6,19 @@ layout: default
 
 Ever since encountering AR for the first time, I decided I wanted to be at the forefront of this exciting technology with a huge potential impact on society and the way it brings people closer together. I believe the future of AR/VR is built on finding answers to meaningful questions that identify the benefits of AR/VR to create products with impact. 
  
- I specialise in finding innovative ways to use emerging technologies to solve current problems and how they could have a real impact on people – with a particular love for everything 3D reconstruction. I've got extensive experience in the reconstruction of objects and environments with a variety of techniques (photogrammetry/LiDAR/3D cameras). I am particularly interested in industrial applications and how it affects human cognition of users in immersive environments to provide a superior experience. 
- 
  My goal is to explore future AR/VR applications that delight and inspire in entirely new problem spaces. Recently, I have also co-founded a company dedicated to creating meaningful AR/VR experiences [Nisus Development](https://www.nisus.dev/).
 
 **[Have a look at some past and ongoing work](./portfolio.html)**
 
 ***
+
+## AR/VR Experience
+
+ I specialise in finding innovative ways to use emerging technologies to solve current problems and how they could have a real impact on people – with a particular love for everything 3D reconstruction. I've got extensive experience in the reconstruction of objects and environments with a variety of techniques (photogrammetry/LiDAR/3D cameras). I am particularly interested in industrial applications and how it affects human cognition of users in immersive environments.
+
+ I'm also an expert in building immersive user experiences and help establish new fundamentals in how we interact in AR/VR. I'm currently focusing on how to best combine smartphones and AR head-mounted displays to provide a delightful experience that goes beyond the touch screen. 
+
+ ***
 
 ## Key Skills 
 
@@ -86,7 +92,7 @@ Ever since encountering AR for the first time, I decided I wanted to be at the f
 
 ***
 
-## Publications 
+## Example Publications 
 
 **C. Reichherzer**, A. Cunningham, T. Coleman, R. Cao, K. McManus, D. Sheppard, M. Kohler, M. Billinghurst, and B. H. Thomas. 2021. Bringing the Jury to the Scene of the Crime: Memory and Decision-Making in a Simulated Crime Scene. In CHI Conference on Human Factors in Computing Systems (CHI ’21), May 8–13, 2021, Yokohama, Japan. ACM, New York, NY, USA, 12 pages.
 
@@ -95,11 +101,6 @@ Ever since encountering AR for the first time, I decided I wanted to be at the f
 **C. Reichherzer**, A. Cunningham, J. Walsh, M. Kohler, M. Billinghurst and B. H. Thomas, "Narrative and Spatial Memory for Jury Viewings in a Reconstructed Virtual Environment," in IEEE Transactions on Visualization & Computer Graphics, vol. 24, no. 11, pp. 2917-2926, 2018. 
 
 **C. Reichherzer**, A. Nassani and M. Billinghurst, "[Poster] Social panoramas using wearable computers," 2014 IEEE International Symposium on Mixed and Augmented Reality (ISMAR), Munich, Germany, 2014, pp. 303-304.
-
-M. Billinghurst, **C. Reichherzer**, and A. Nassani, Collaboration With Wearable Computers. 
-Fundamentals of Wearable Computers and Augmented Reality, 2nd Edition, CRC Press, 2015. 
-
-Mark Billinghurst, Alaeddin Nassani, and **Carolin Reichherzer**. 2014. Social panoramas: using wearable computers to share experiences. In SIGGRAPH Asia 2014 Mobile Graphics and Interactive Applications (SA '14). ACM, New York, NY, USA, Article 25, 1 pages.
 
 *** 
 

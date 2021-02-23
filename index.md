@@ -88,7 +88,9 @@ Ever since encountering AR for the first time, I decided I wanted to be at the f
 
 ## Publications 
 
-**C. Reichherzer**, Andrew Cunningham, Tracey Coleman, Ruochen Cao, Kurt McManus, Dion Sheppard, Mark Kohler, Mark Billinghurst, and Bruce H. Thomas. 2021. Bringing the Jury to the Scene of the Crime: Memory and Decision-Making in a Simulated Crime Scene. In CHI Conference on Human Factors in Computing Systems (CHI ’21), May 8–13, 2021, Yokohama, Japan. ACM, New York, NY, USA, 12 pages.
+**C. Reichherzer**, A. Cunningham, T. Coleman, R. Cao, K. McManus, D. Sheppard, M. Kohler, M. Billinghurst, and B. H. Thomas. 2021. Bringing the Jury to the Scene of the Crime: Memory and Decision-Making in a Simulated Crime Scene. In CHI Conference on Human Factors in Computing Systems (CHI ’21), May 8–13, 2021, Yokohama, Japan. ACM, New York, NY, USA, 12 pages.
+
+**C. Reichherzer**, J. Fraser, D. Constantine Rompapas, and M. Billinghurst. 2021. SecondSight: A Framework for Cross-Device Augmented Reality Interfaces. In CHI Conference on Human Factors in Computing Systems Extended Abstracts (CHI '21 Extended Abstracts), May 8--13, 2021, Yokohama, Japan. ACM, New York, NY, USA, 6 pages
 
 **C. Reichherzer**, A. Cunningham, J. Walsh, M. Kohler, M. Billinghurst and B. H. Thomas, "Narrative and Spatial Memory for Jury Viewings in a Reconstructed Virtual Environment," in IEEE Transactions on Visualization & Computer Graphics, vol. 24, no. 11, pp. 2917-2926, 2018. 
 

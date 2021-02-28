@@ -12,7 +12,9 @@ We developed a framework that facilitates the design space exploration of hybrid
 ![Interaction Mode](/assets/videos/SecondSightHeadPose.gif)
 
 
-_Project funded by Google Inc._ 
+_Project funded by Google_ 
+
+***
 
 ### Virtual Reality for Crime Scene Visualisation
 

@@ -49,7 +49,7 @@ Ever since encountering AR for the first time, I decided I wanted to be at the f
 
 ![International student of the year – Highly commended](/assets/img/SAExcellence.jpg)
 
-* **Finalist** [UniSA Research Awards 2020 (Research degree candidate)](https://www.unisa.edu.au/research/research-awards/)
+* **Finalist** [UniSA Research Excellence Awards 2020 (Research degree candidate)](https://www.unisa.edu.au/research/research-awards/)
 * **Highly Commended** [Academic Excellence in Postgraduate Research 2019 awarded by _His Excellency the Honourable Hieu Van Le AC_, Governor of South Australia](https://studyadelaide.com/whats-happening/2019-academic-excellence-postgraduate-research-awards)
 * **1st Place Winner** [Retail Game Changer Challenge 2019: $25.000 AUD](https://icc.unisa.edu.au/newsroom/2019/unisa-phd-students-reinvent-retail-therapy-wheel/)
 * **Club of the Year 2019** Women in STEM UniSA Club  

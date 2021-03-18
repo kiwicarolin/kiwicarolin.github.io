@@ -49,6 +49,7 @@ Ever since encountering AR for the first time, I decided I wanted to be at the f
 
 ![International student of the year – Highly commended](/assets/img/SAExcellence.jpg)
 
+* **Honourable Mention Award** CHI 2021 (top 5% of submissions)
 * **Finalist** [UniSA Research Excellence Awards 2020 (Research degree candidate)](https://www.unisa.edu.au/research/research-awards/)
 * **Highly Commended** [Academic Excellence in Postgraduate Research 2019 awarded by _His Excellency the Honourable Hieu Van Le AC_, Governor of South Australia](https://studyadelaide.com/whats-happening/2019-academic-excellence-postgraduate-research-awards)
 * **1st Place Winner** [Retail Game Changer Challenge 2019: $25.000 AUD](https://icc.unisa.edu.au/newsroom/2019/unisa-phd-students-reinvent-retail-therapy-wheel/)
@@ -96,7 +97,7 @@ Ever since encountering AR for the first time, I decided I wanted to be at the f
 
 ## Example Publications 
 
-**C. Reichherzer**, A. Cunningham, T. Coleman, R. Cao, K. McManus, D. Sheppard, M. Kohler, M. Billinghurst, and B. H. Thomas. 2021. Bringing the Jury to the Scene of the Crime: Memory and Decision-Making in a Simulated Crime Scene. In CHI Conference on Human Factors in Computing Systems (CHI ’21), May 8–13, 2021, Yokohama, Japan. ACM, New York, NY, USA, 12 pages.
+**C. Reichherzer**, A. Cunningham, T. Coleman, R. Cao, K. McManus, D. Sheppard, M. Kohler, M. Billinghurst, and B. H. Thomas. 2021. Bringing the Jury to the Scene of the Crime: Memory and Decision-Making in a Simulated Crime Scene. In CHI Conference on Human Factors in Computing Systems (CHI ’21), May 8–13, 2021, Yokohama, Japan. ACM, New York, NY, USA, 12 pages. [HONOURABLE MENTION AWARD]
 
 **C. Reichherzer**, J. Fraser, D. Constantine Rompapas, and M. Billinghurst. 2021. SecondSight: A Framework for Cross-Device Augmented Reality Interfaces. In CHI Conference on Human Factors in Computing Systems Extended Abstracts (CHI '21 Extended Abstracts), May 8--13, 2021, Yokohama, Japan. ACM, New York, NY, USA, 6 pages
 

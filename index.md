@@ -97,7 +97,7 @@ Ever since encountering AR for the first time, I decided I wanted to be at the f
 
 ## Example Publications 
 
-[Honourable Mention Award] **C. Reichherzer**, A. Cunningham, T. Coleman, R. Cao, K. McManus, D. Sheppard, M. Kohler, M. Billinghurst, and B. H. Thomas. 2021. Bringing the Jury to the Scene of the Crime: Memory and Decision-Making in a Simulated Crime Scene. In CHI Conference on Human Factors in Computing Systems (CHI ’21), May 8–13, 2021, Yokohama, Japan. ACM, New York, NY, USA, 12 pages. 
+[_Honourable Mention Award_] **C. Reichherzer**, A. Cunningham, T. Coleman, R. Cao, K. McManus, D. Sheppard, M. Kohler, M. Billinghurst, and B. H. Thomas. 2021. Bringing the Jury to the Scene of the Crime: Memory and Decision-Making in a Simulated Crime Scene. In CHI Conference on Human Factors in Computing Systems (CHI ’21), May 8–13, 2021, Yokohama, Japan. ACM, New York, NY, USA, 12 pages. 
 
 **C. Reichherzer**, J. Fraser, D. Constantine Rompapas, and M. Billinghurst. 2021. SecondSight: A Framework for Cross-Device Augmented Reality Interfaces. In CHI Conference on Human Factors in Computing Systems Extended Abstracts (CHI '21 Extended Abstracts), May 8--13, 2021, Yokohama, Japan. ACM, New York, NY, USA, 6 pages
 

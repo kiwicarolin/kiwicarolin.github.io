@@ -6,7 +6,7 @@ layout: default
 
 Ever since encountering AR for the first time, I decided I wanted to be at the forefront of this exciting technology with a huge potential impact on society and the way it brings people closer together. I believe the future of AR/VR is built on finding answers to meaningful questions that identify the benefits of AR/VR to create products with impact. 
  
- My goal is to explore future AR/VR applications that delight and inspire in problem spaces that are meaningful and novel – Leveraging the unique advantages of these technologies to radically change current work processes that best support the end-user. 
+ My goal is to explore future AR/VR applications that delight and inspire in problem spaces that are meaningful and novel – Leveraging the unique advantages of these technologies to radically change current processes that best support the end-user. 
  
 
 **[Have a look at some past and ongoing work](./portfolio.html)**

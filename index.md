@@ -63,10 +63,10 @@ Ever since encountering AR for the first time, I decided I wanted to be at the f
 ***
 
 ### In the Media
-* ABC News: [Virtual reality and its potential in crime scene tours - Law report with Damien Carrick] (https://www.abc.net.au/radionational/programs/breakfast/virtual-reality-crime-scene-law-report-with-damien-carrick/13471630). (July 2021)
-* The Advertiser: [University of SA study finds VR headsets allow juries to deliver fairer verdicts in complex crime trials] (hhttp://www.themercury.com.au/news/south-australia/news-story/a52258e39a6e8ce361d53f570a5007e4). (July 2021)
-* Mashable: [Jurors could use VR to visit crime scenes, and help them reach a verdict] (https://mashable.com/article/virtual-reality-jury-trial-courtroom). (July 2021)
-* Daily Mail: [Jurors using virtual reality headsets to see the crime scene are nearly 87% more likely to agree on a unanimous verdict than those who only see photographs] (https://www.dailymail.co.uk/sciencetech/article-9815365/Jurors-using-VR-headsets-crime-scene-87-likely-agree-verdict.html). (July 2021)
+* ABC News: [Virtual reality and its potential in crime scene tours - Law report with Damien Carrick](https://www.abc.net.au/radionational/programs/breakfast/virtual-reality-crime-scene-law-report-with-damien-carrick/13471630). (July 2021)
+* The Advertiser: [University of SA study finds VR headsets allow juries to deliver fairer verdicts in complex crime trials](hhttp://www.themercury.com.au/news/south-australia/news-story/a52258e39a6e8ce361d53f570a5007e4). (July 2021)
+* Mashable: [Jurors could use VR to visit crime scenes, and help them reach a verdict](https://mashable.com/article/virtual-reality-jury-trial-courtroom). (July 2021)
+* Daily Mail: [Jurors using virtual reality headsets to see the crime scene are nearly 87% more likely to agree on a unanimous verdict than those who only see photographs](https://www.dailymail.co.uk/sciencetech/article-9815365/Jurors-using-VR-headsets-crime-scene-87-likely-agree-verdict.html). (July 2021)
 * The Advertiser: [University of SA investigates using virtual reality to walk trial juries through crime scenes](https://www.adelaidenow.com.au/news/law-order/university-of-sa-investigates-using-virtual-reality-to-walk-trial-juries-through-crime-scenes/news-story/ad4fb3bcca125fbf9667720e16d755ef). (March 2019)
 * UniSA News: [The technology to take a jury into a 3D crime scene](https://u.unisa.edu.au/unisanews/2019/march/story2/). (March 2019)
 * SA Lead: [Virtual Reality more reliable than photographs for jurors](http://theleadsouthaustralia.com.au/industries/technology/virtual-reality-more-reliable-than-photographs-for-jurors/). (March 2019)

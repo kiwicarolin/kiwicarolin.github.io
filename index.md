@@ -7,7 +7,6 @@ layout: default
 Ever since encountering AR for the first time, I decided I wanted to be at the forefront of this exciting technology with a huge potential impact on society and the way it brings people closer together. I believe the future of AR/VR is built on finding answers to meaningful questions that identify the benefits of AR/VR to create products with impact. 
  
  My goal is to explore future AR/VR applications that delight and inspire in problem spaces that are meaningful and novel – Leveraging the unique advantages of these technologies to radically change current processes that best support the end-user. 
- 
 
 **[Have a look at some past and ongoing work](./portfolio.html)**
 
@@ -64,6 +63,10 @@ Ever since encountering AR for the first time, I decided I wanted to be at the f
 ***
 
 ### In the Media
+* ABC News: [Virtual reality and its potential in crime scene tours - Law report with Damien Carrick] (https://www.abc.net.au/radionational/programs/breakfast/virtual-reality-crime-scene-law-report-with-damien-carrick/13471630). (July 2021)
+* The Advertiser: [University of SA study finds VR headsets allow juries to deliver fairer verdicts in complex crime trials] (hhttp://www.themercury.com.au/news/south-australia/news-story/a52258e39a6e8ce361d53f570a5007e4). (July 2021)
+* Mashable: [Jurors could use VR to visit crime scenes, and help them reach a verdict] (https://mashable.com/article/virtual-reality-jury-trial-courtroom). (July 2021)
+* Daily Mail: [Jurors using virtual reality headsets to see the crime scene are nearly 87% more likely to agree on a unanimous verdict than those who only see photographs] (https://www.dailymail.co.uk/sciencetech/article-9815365/Jurors-using-VR-headsets-crime-scene-87-likely-agree-verdict.html). (July 2021)
 * The Advertiser: [University of SA investigates using virtual reality to walk trial juries through crime scenes](https://www.adelaidenow.com.au/news/law-order/university-of-sa-investigates-using-virtual-reality-to-walk-trial-juries-through-crime-scenes/news-story/ad4fb3bcca125fbf9667720e16d755ef). (March 2019)
 * UniSA News: [The technology to take a jury into a 3D crime scene](https://u.unisa.edu.au/unisanews/2019/march/story2/). (March 2019)
 * SA Lead: [Virtual Reality more reliable than photographs for jurors](http://theleadsouthaustralia.com.au/industries/technology/virtual-reality-more-reliable-than-photographs-for-jurors/). (March 2019)
@@ -99,6 +102,8 @@ Ever since encountering AR for the first time, I decided I wanted to be at the f
 ## Example Publications 
 
 _Honourable Mention Award_ **C. Reichherzer**, A. Cunningham, T. Coleman, R. Cao, K. McManus, D. Sheppard, M. Kohler, M. Billinghurst, and B. H. Thomas. 2021. Bringing the Jury to the Scene of the Crime: Memory and Decision-Making in a Simulated Crime Scene. In CHI Conference on Human Factors in Computing Systems (CHI ’21), May 8–13, 2021, Yokohama, Japan. ACM, New York, NY, USA, 12 pages. 
+
+**C. Reichherzer**, J. Fraser and M. Billinghurst. 2021. SecondSight: Demonstrating Cross-Device Augmented Reality. In Special Interest Group on Computer Graphics and Interactive Techniques Conference Immersive Pavilion (SIGGRAPH '21 Immersive Pavilion), August 09-13, 2021, Virtual Event, USA. ACM, New York, NY, USA, 3 Pages.
 
 **C. Reichherzer**, J. Fraser, D. Constantine Rompapas, and M. Billinghurst. 2021. SecondSight: A Framework for Cross-Device Augmented Reality Interfaces. In CHI Conference on Human Factors in Computing Systems Extended Abstracts (CHI '21 Extended Abstracts), May 8--13, 2021, Yokohama, Japan. ACM, New York, NY, USA, 6 pages
 

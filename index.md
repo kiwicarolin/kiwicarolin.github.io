@@ -50,7 +50,7 @@ Ever since encountering AR for the first time, I decided I wanted to be at the f
 ![International student of the year – Highly commended](/assets/img/SAExcellence.jpg)
 
 * **Honourable Mention Award** [Best of CHI – CHI Conference 2021](https://chi2021.acm.org/information/5208.html)
-* **Finalist** [UniSA Research Excellence Awards 2020 (Research degree candidate)](https://www.unisa.edu.au/research/research-awards/)
+* **Finalist** [UniSA Research Excellence Awards 2020 (Research degree candidate)](https://www.unisa.edu.au/research/research-awards/2020/)
 * **Highly Commended** [Academic Excellence in Postgraduate Research 2019 awarded by _His Excellency the Honourable Hieu Van Le AC_, Governor of South Australia](https://studyadelaide.com/whats-happening/2019-academic-excellence-postgraduate-research-awards)
 * **1st Place Winner** [Retail Game Changer Challenge 2019: $25.000 AUD](https://icc.unisa.edu.au/newsroom/2019/unisa-phd-students-reinvent-retail-therapy-wheel/)
 * **Club of the Year 2019** Women in STEM UniSA Club  
@@ -64,7 +64,7 @@ Ever since encountering AR for the first time, I decided I wanted to be at the f
 
 ### In the Media
 * **ABC News**: [Virtual reality and its potential in crime scene tours - Law report with Damien Carrick](https://www.abc.net.au/radionational/programs/breakfast/virtual-reality-crime-scene-law-report-with-damien-carrick/13471630). (July 2021)
-* **The Advertiser**: [University of SA study finds VR headsets allow juries to deliver fairer verdicts in complex crime trials](hhttp://www.themercury.com.au/news/south-australia/news-story/a52258e39a6e8ce361d53f570a5007e4). (July 2021)
+* **The Advertiser**: [University of SA study finds VR headsets allow juries to deliver fairer verdicts in complex crime trials](http://www.themercury.com.au/news/south-australia/news-story/a52258e39a6e8ce361d53f570a5007e4). (July 2021)
 * **Mashable**: [Jurors could use VR to visit crime scenes, and help them reach a verdict](https://mashable.com/article/virtual-reality-jury-trial-courtroom). (July 2021)
 * **Daily Mail**: [Jurors using virtual reality headsets to see the crime scene are nearly 87% more likely to agree on a unanimous verdict than those who only see photographs](https://www.dailymail.co.uk/sciencetech/article-9815365/Jurors-using-VR-headsets-crime-scene-87-likely-agree-verdict.html). (July 2021)
 * **The Advertiser**: [University of SA investigates using virtual reality to walk trial juries through crime scenes](https://www.adelaidenow.com.au/news/law-order/university-of-sa-investigates-using-virtual-reality-to-walk-trial-juries-through-crime-scenes/news-story/ad4fb3bcca125fbf9667720e16d755ef). (March 2019)

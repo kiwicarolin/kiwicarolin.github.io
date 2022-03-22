@@ -76,7 +76,7 @@ Ever since encountering AR for the first time, I decided I wanted to be at the f
 
 ## Example Publications 
 
-_Best Paper Nominee_ **C. Reichherzer*, A. Cunningham, J. Barr, T. Coleman, K. McManus, D. Sheppard, S. Coussens, M. Kohler, B. H. Thomas. 2022. Supporting Jury Understanding of Expert Evidence in a Virtual Environment. IEEE VR 2022
+_Best Paper Nominee_ **C. Reichherzer**, A. Cunningham, J. Barr, T. Coleman, K. McManus, D. Sheppard, S. Coussens, M. Kohler, B. H. Thomas. 2022. Supporting Jury Understanding of Expert Evidence in a Virtual Environment. IEEE VR 2022
 
 _Honourable Mention Award_ **C. Reichherzer**, A. Cunningham, T. Coleman, R. Cao, K. McManus, D. Sheppard, M. Kohler, M. Billinghurst, and B. H. Thomas. 2021. Bringing the Jury to the Scene of the Crime: Memory and Decision-Making in a Simulated Crime Scene. In CHI Conference on Human Factors in Computing Systems (CHI ’21), May 8–13, 2021, Yokohama, Japan. ACM, New York, NY, USA, 12 pages. 
 

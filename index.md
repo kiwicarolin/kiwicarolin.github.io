@@ -48,7 +48,7 @@ Ever since encountering AR for the first time, I decided I wanted to be at the f
 ### Awards and Achievements
 
 ![International student of the year – Highly commended](/assets/img/SAExcellence.jpg)
-
+* **Nominee Best Paper** [IEEE VR 2022](https://ieeevr.org/2022/awards/conference-awards/#conference-nominees)
 * **Honourable Mention Award** [Best of CHI – CHI Conference 2021](https://chi2021.acm.org/information/5208.html)
 * **Finalist** [UniSA Research Excellence Awards 2020 (Research degree candidate)](https://www.unisa.edu.au/research/research-awards/2020/)
 * **Highly Commended** [Academic Excellence in Postgraduate Research 2019 awarded by _His Excellency the Honourable Hieu Van Le AC_, Governor of South Australia](https://studyadelaide.com/whats-happening/2019-academic-excellence-postgraduate-research-awards)
@@ -75,6 +75,8 @@ Ever since encountering AR for the first time, I decided I wanted to be at the f
 ***
 
 ## Example Publications 
+
+_Best Paper Nominee_ **C. Reichherzer*, A. Cunningham, J. Barr, T. Coleman, K. McManus, D. Sheppard, S. Coussens, M. Kohler, B. H. Thomas. 2022. Supporting Jury Understanding of Expert Evidence in a Virtual Environment. IEEE VR 2022
 
 _Honourable Mention Award_ **C. Reichherzer**, A. Cunningham, T. Coleman, R. Cao, K. McManus, D. Sheppard, M. Kohler, M. Billinghurst, and B. H. Thomas. 2021. Bringing the Jury to the Scene of the Crime: Memory and Decision-Making in a Simulated Crime Scene. In CHI Conference on Human Factors in Computing Systems (CHI ’21), May 8–13, 2021, Yokohama, Japan. ACM, New York, NY, USA, 12 pages. 
 

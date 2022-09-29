@@ -14,25 +14,21 @@ Ever since encountering AR for the first time, I decided I wanted to be at the f
 
 ## Key Skills 
 
-* Create impactful AR/VR applications for a new outlook on how we view the future  
+* Create impactful AR/VR applications for a new outlook on radically improving how we interact with new technology 
 * Prototype ideas, experiences and scenarios in the intersection of science, design and development
+* Assessing the cognitive impact of AR/VR in collaborative and single user settings to improve attention, perception and decision-making
 * Extensive experience in generating high quality 3D reconstruction 
-* Assessing the cognitive impact of AR/VR in collaborative and single user settings 
-* Passionate about radically improving how we interact with new technology 
-* Use design thinking approaches to solve problems creatively in completely new landscapes
-* Generate user insights through user research using mixed methods and interpreting its data 
+* Generate user insights through user research using mixed methods and interpreting behavioral data in AR/VR context 
 * Effective collaborator with different professions to work successfully towards a common goal  
 
 ***
 
 ## AR/VR Experience
 
- I specialise in finding innovative ways to use emerging technologies to solve current problems and how they could have a real impact on people – with a particular love for everything 3D reconstruction. I've got extensive experience in the reconstruction of objects and environments with a variety of techniques (photogrammetry/LiDAR/3D cameras). I am particularly interested in industrial applications and how it affects human cognition of users in immersive environments.
-
- I'm also an expert in building immersive user experiences and help establish new fundamentals in how we interact in AR/VR. I'm currently focusing on how to best combine smartphones and AR head-mounted displays to provide a delightful experience that goes beyond the touch screen. 
+ I specialise in finding innovative ways to use emerging technologies to solve current problems and how they could have a real impact on people with a focus on building immersive user experiences.  
+ I am particularly interested in industrial applications with a focus on supporting human cognition and perception that help establish new fundamentals in how we interact in AR/VR.
 
  ![Interaction Mode](/assets/videos/GesturesSecondSight.gif)
-
 
 ***
 

@@ -11,9 +11,11 @@ We developed a framework that facilitates the design space exploration of hybrid
 
 ![Interaction Mode](/assets/videos/SecondSightHeadPose.gif)
 
+***
+
 ### Perception in Augmented Reality  
 
-In Augmented Reality it can be difficult to properly estimate how far away virtual objects are located. We are investigating which visual cues improve depth perception for large virtual objects to support building engaging virtual worlds. 
+In Augmented Reality it can be difficult to properly estimate how far away virtual objects are located. We are investigating via perception studies which visual cues improve depth perception for large virtual objects to support building engaging virtual worlds. 
 
 ![Depth](/assets/img/DepthPerception.png)
 
@@ -36,8 +38,6 @@ The research in my PhD revolves around this very question and the impact VR coul
 Photogrammetry is the process of recreating objects or environments through the interpretation of a range of photographs taken from different angles. The 3D models generated out of this process can provide high quality assets to be used in VR. 
 
 ![Photogrammetry](/assets/img/Photogrammetry.png)
-
-[More information to come]
 
 ***
 

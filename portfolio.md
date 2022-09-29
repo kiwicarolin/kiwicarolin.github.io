@@ -11,8 +11,11 @@ We developed a framework that facilitates the design space exploration of hybrid
 
 ![Interaction Mode](/assets/videos/SecondSightHeadPose.gif)
 
+### Perception in Augmented Reality  
 
-_Project funded by Google_ 
+In Augmented Reality it can be difficult to properly estimate how far away virtual objects are located. We are investigating which visual cues improve depth perception for large virtual objects to support building engaging virtual worlds. 
+
+![Depth](/assets/img/DepthPerception.png)
 
 ***
 

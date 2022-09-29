@@ -25,8 +25,7 @@ Ever since encountering AR for the first time, I decided I wanted to be at the f
 
 ## AR/VR Experience
 
- I specialise in finding innovative ways to use emerging technologies to solve current problems and how they could have a real impact on people with a focus on building immersive user experiences.  
- I am particularly interested in industrial applications with a focus on supporting human cognition and perception that help establish new fundamentals in how we interact in AR/VR.
+ I specialise in finding innovative ways to use emerging technologies to solve current problems and how they could have a real impact on people with a focus on building immersive user experiences. My focus is on industrial applications with an emphasis on supporting human cognition and perception that help establish new fundamentals in how we interact in AR/VR.
 
  ![Interaction Mode](/assets/videos/GesturesSecondSight.gif)
 

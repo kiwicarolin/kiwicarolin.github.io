@@ -4,7 +4,7 @@ layout: default
 
 ## Building the future of AR/VR 
 
-Ever since encountering AR for the first time, I decided I wanted to be at the forefront of this exciting technology with a huge potential impact on society and the way it brings people closer together. I believe the future of AR/VR is built on finding answers to meaningful questions that identify the benefits of AR/VR to create products with impact. 
+Ever since encountering AR for the first time, I decided I wanted to be at the forefront of this exciting technology with a huge potential impact on society and the way it brings people closer together. I believe the future of these technologies is built on finding answers to meaningful questions that identify the benefits of AR/VR to create products with impact. 
  
  My goal is to explore future AR/VR applications that delight and inspire in problem spaces that are meaningful and novel – Leveraging the unique advantages of these technologies to radically change current processes that best support the end-user. 
 
@@ -16,7 +16,7 @@ Ever since encountering AR for the first time, I decided I wanted to be at the f
 
 * Create impactful AR/VR applications for a new outlook on radically improving how we interact with new technology 
 * Prototype ideas, experiences and scenarios in the intersection of science, design and development
-* Assessing the cognitive impact of AR/VR in collaborative and single user settings to improve attention, perception and decision-making
+* Assessing the cognitive impact of AR/VR in collaborative and single user settings to improve memory, attention, perception and decision-making
 * Extensive experience in generating high quality 3D reconstruction 
 * Generate user insights through user research using mixed methods and interpreting behavioral data in AR/VR context 
 * Effective collaborator with different professions to work successfully towards a common goal  
@@ -85,14 +85,6 @@ _Honourable Mention Award_ **C. Reichherzer**, A. Cunningham, T. Coleman, R. Cao
 
 ***
 
-### Research Grants
-* Data to Decisions CRC Applied Research Grant 2019
-* Data to Decisions CRC Applied Research Grant 2018
-* Equipment Grant (UniSA): $73.900 AUD 
-* Women in Stem Club: $10.000 AUD 
-
-***
-
 ### Teaching and Volunteering
 
 **Teaching assistant at the University of South Australia**
@@ -109,10 +101,14 @@ _Honourable Mention Award_ **C. Reichherzer**, A. Cunningham, T. Coleman, R. Cao
 * Women in STEM Club UniSA: Co-Founder and Planning Director. I defined the groups core vision of Innovation, Inclusion and Inspiration. I am also responsible for creating and maintaining our project schedules and help acquire grants. 
 * Code like a girl: Event volunteer and panelist
 
-*** 
-
 ![Volunteering](/assets/img/clg.PNG)
 
+***
 
+### Research Grants
+* Data to Decisions CRC Applied Research Grant 2019
+* Data to Decisions CRC Applied Research Grant 2018
+* Equipment Grant (UniSA): $73.900 AUD 
+* Women in Stem Club: $10.000 AUD 
 
 

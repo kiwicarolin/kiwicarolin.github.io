@@ -25,7 +25,7 @@ Ever since encountering AR for the first time, I knew I wanted to be at the fore
 
 ## AR/VR Experience
 
- I specialise in finding innovative ways to use emerging technologies to solve current problems and how they could have a real impact on people with a focus on building immersive user experiences. .
+ I specialise in finding innovative ways to use emerging technologies to solve current problems and how they could have a real impact on people with a focus on building immersive user experiences.
 
  ![Interaction Mode](/assets/videos/GesturesSecondSight.gif)
 
@@ -97,7 +97,7 @@ _Honourable Mention Award_ **C. Reichherzer**, A. Cunningham, T. Coleman, R. Cao
 * Augmented Reality Interaction
 
 **Volunteer**
-* CHI 2022: Associate Chair (Specific Applications Areas) 
+* CHI 2022-2024: Associate Chair (Specific Applications Areas) 
 * Women in STEM Club UniSA: Co-Founder and Planning Director. I defined the groups core vision of Innovation, Inclusion and Inspiration. I am also responsible for creating and maintaining our project schedules and help acquire grants. 
 * Code like a girl: Event volunteer and panelist
 

@@ -4,7 +4,7 @@ layout: default
 
 ### Virtual Reality for Law Enforcement and Forensics 
 
-I spent several years assessing the use of Virtual Reality for courtroom presentation, focusing on a seamless interactive experiences that supports spatial awareness and memory. 
+I spent several years assessing how people perceive 3D reconstructed environments, focusing on a seamless interactive experiences that supports spatial awareness, user perception, and cognition. The research focuses on an area of high impact - the courtroom. 
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/8yMOz9hCWyY' frameborder='0' allowfullscreen></iframe></div>
 _My PhD was graciously supported by the [Data to Decisions CRC](https://www.d2dcrc.com.au/)._  
@@ -16,7 +16,7 @@ Reconstructing the event of a serious crime can be a major challenge for the jur
 
 <video width="100%" controls muted autoplay>  <source src="/assets/videos/HitAndRunExperiment.mp4" type="video/mp4"></video>
 
-Participants viewed a fictional hit and run scenario and had to memorise items found at the scene and make a verdict. They then had to make a decision – Was the driver at fault? Participants came to very different conclusions depending on if they viewed it as still images or in VR. While people viewing still images were divided in their opinion, those who had viewed the scene in VR were consistent in their conclusion.  Participants in VR also remembered their environment significantly better and were able to place evidence items more accurately where they belonged. 
+Participants viewed a fictional hit and run scenario and had to memorise items found at the scene and make a verdict. They then had to make a decision – Was the driver at fault? Participants came to very different conclusions depending on if they viewed it as still images or in VR. While people viewing still images were divided in their opinion, those who had viewed the scene in VR were consistent in their conclusion. Participants in VR also remembered their environment significantly better and were able to place evidence items more accurately where they belonged. 
 
 ***
 

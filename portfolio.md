@@ -69,30 +69,4 @@ The idea of Social Panorama is of a remote collaboration tool that allows panora
 
 **[Click for more information](./SocialPanorama.html)**
 
-***
-
-### UX and UI work
-
-I've worked on a range of UI and interactive UX projects spanning the entire project cycle. It included creating storyboards, userflows and wireframes to pixel-perfect assets as well as development of generative design elements. 
-
-![KAVOK](/assets/img/KAVOK2.png)
-
-**[Click for more information](./UI.html)**
-
-***
-
-### Corporate Branding
-
-In the past I have focused on communicating a brand message and help design the visual language of a brand. I designed a range of branded material from conception to digital and print production. 
-
-![BAADER](/assets/img/baader_title.jpg)
-![ZDF](/assets/img/lebenswege2.jpg)
-![ZDF](/assets/img/zdf_wetterwissen.jpg)
-
-
-
-
-
-
-
 [back](./)

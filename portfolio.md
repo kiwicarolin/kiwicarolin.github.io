@@ -13,7 +13,7 @@ We developed a framework that facilitates the design space exploration of hybrid
 
 ***
 
-### Perception in Augmented Reality  
+### Depth Perception in Augmented Reality  
 
 In Augmented Reality it can be difficult to properly estimate how far away virtual objects are located. We are investigating via perception studies which visual cues improve depth perception for large virtual objects to support building engaging virtual worlds. 
 

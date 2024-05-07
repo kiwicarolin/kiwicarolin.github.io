@@ -4,9 +4,9 @@ layout: default
 
 ## Building the future of AR/VR 
 
-Ever since encountering AR for the first time, I decided I wanted to be at the forefront of this exciting technology with a huge potential impact on society and the way it brings people closer together. I believe the future of these technologies is built on finding answers to meaningful questions that identify the benefits of AR/VR to create products with impact. 
+Ever since encountering AR for the first time, I knew I wanted to be at the forefront of this exciting technology that has such a tremendous potential on shaping new digital experiences and offering new ways to bring people closer together. I believe the future of these technologies is built on understanding how people use new technology and finding answers to meaningful questions that identify the benefits of AR/VR for impactful experiences.
  
- My goal is to explore future AR/VR applications that delight and inspire in problem spaces that are meaningful and novel – Leveraging the unique advantages of these technologies to radically change current processes that best support the end-user. 
+ My goal is to explore future AR/VR applications that delight and inspire in meaningful problem spaces to unlock new ways of working and connection for everyone. 
 
 **[Have a look at some past and ongoing work](./portfolio.html)**
 
@@ -15,17 +15,17 @@ Ever since encountering AR for the first time, I decided I wanted to be at the f
 ## Key Skills 
 
 * Create impactful AR/VR applications for a new outlook on radically improving how we interact with new technology 
+* Communicating insights to XFN and guide development to deliver an engaging experience for the user
+* Generate user insights through user research using mixed methods and interpreting behavioral data in AR/VR context 
+* Effective collaborator and thought leader on strategic decisions and user advocate 
 * Prototype ideas, experiences and scenarios in the intersection of science, design and development
 * Assessing the cognitive impact of AR/VR in collaborative and single user settings to improve memory, attention, perception and decision-making
-* Extensive experience in generating high quality 3D reconstruction 
-* Generate user insights through user research using mixed methods and interpreting behavioral data in AR/VR context 
-* Effective collaborator with different professions to work successfully towards a common goal  
 
 ***
 
 ## AR/VR Experience
 
- I specialise in finding innovative ways to use emerging technologies to solve current problems and how they could have a real impact on people with a focus on building immersive user experiences. My focus is on industrial applications with an emphasis on supporting human cognition and perception that help establish new fundamentals in how we interact in AR/VR.
+ I specialise in finding innovative ways to use emerging technologies to solve current problems and how they could have a real impact on people with a focus on building immersive user experiences.
 
  ![Interaction Mode](/assets/videos/GesturesSecondSight.gif)
 
@@ -97,7 +97,7 @@ _Honourable Mention Award_ **C. Reichherzer**, A. Cunningham, T. Coleman, R. Cao
 * Augmented Reality Interaction
 
 **Volunteer**
-* CHI 2022: Associate Chair (Specific Applications Areas) 
+* CHI 2022-2024: Associate Chair (Specific Applications Areas) 
 * Women in STEM Club UniSA: Co-Founder and Planning Director. I defined the groups core vision of Innovation, Inclusion and Inspiration. I am also responsible for creating and maintaining our project schedules and help acquire grants. 
 * Code like a girl: Event volunteer and panelist
 

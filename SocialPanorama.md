@@ -4,7 +4,7 @@ layout: default
 
 ![Social Panorama](/assets/img/SPConcept2.png)
 
-Social Panorama is a Google Glass application envisioned to share experiences with other users. It leverages technologies such as panoramic imagery, collaborative interaction and natural communication
+Social Panorama is a Google Glass application envisioned to share experiences with other users with the intention to make people feel closely connected even when physically separated. It leverages technologies such as panoramic imagery, collaborative interaction and natural communication
 to provide a new way to connect people over a distance through sharing their immediate and
 personal spaces. 
 

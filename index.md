@@ -16,7 +16,7 @@ After calling Australia my home for many years, and now back in Europe, I am esp
 
 * Generating user insights on user percpetion in AR/VR in collaborative and single user settings using mixed methods, physiological sensing, and interpreting behavioral data 
 * Designing experiences on how connected people feel in AR/VR and identify ways to enhance their experience for a deeper social connection
-* Identifying the impact of 3D reconstruction on user perception
+* Identifying the impact of 3D reconstruction on user perception and how people perceive avatars in VR
 * Create impactful AR/VR applications for a new outlook on radically improving how we interact with new technology 
 * Communicating insights to XFN and guide development to deliver an engaging experience for the user
 * Effective collaborator and thought leader on strategic decisions and user advocate 

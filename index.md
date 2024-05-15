@@ -4,7 +4,9 @@ layout: default
 
 ## Building the future of AR/VR 
 
-Since encountering AR/VR for the first time, I've been driven to be at the forefront of this exciting technology with its tremendous potential to shape new digital experiences and bring people closer together. I believe the future of these technologies is built on understanding how people use new technology and finding answers to meaningful questions that identify the benefits of AR/VR for impactful experiences.
+Since encountering AR/VR for the first time, I've been driven to be at the forefront of this exciting technology with its tremendous potential to shape new digital experiences and bring people closer together. 
+
+I believe the future of these technologies is built on understanding how people use new technology and finding answers to meaningful questions that identify the benefits of AR/VR for impactful experiences.
 
 After calling Australia my home for many years and now being back in Europe, I am especially invested in finding ways for people to feel connected with loved ones who are far away. My goal is to explore future AR/VR applications that delight and inspire in meaningful ways, unlocking how people can develop rich social experiences even across continents. 
 

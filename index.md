@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Striving for connection using AR/VR
+## Bridging continents with AR/VR
 
 Since encountering AR/VR for the first time, I've been driven to be at the forefront of this exciting technology with its tremendous potential to shape new digital experiences and bring people closer together. 
 

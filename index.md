@@ -30,9 +30,9 @@ After calling Australia my home for many years and now being back in Europe, I a
 
 ## Education
 
-**PhD in Computer Science**, University of South Australia (2016 – 2020) <br>
-**MSc in Digital Media**, University of Bremen (2011 – 2014) <br>
-**BA in Design**, University of Applied Sciences Mainz (2007 – 2011) 
+**PhD in Computer Science**, University of South Australia <br>
+**MSc in Digital Media**, University of Bremen <br>
+**BA in Design**, University of Applied Sciences Mainz
 
 
 ***

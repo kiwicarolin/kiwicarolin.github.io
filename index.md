@@ -4,9 +4,7 @@ layout: default
 
 ## Unlocking value to people through novel technologies 
 
-I believe the future of new technologies is built on understanding how people use new technology and finding answers to meaningful questions that identify the benefits for impactful experiences.
-
-After calling Australia my home for many years and now being back in Europe, I am especially invested in finding ways for people to feel connected with loved ones who are far away. My goal is to explore future applications that delight and inspire in meaningful ways, unlocking how people can develop rich social experiences at a distance. 
+I believe the future of technology lies in understanding how people interact with it and uncovering insights that reveal its potential to create impactful experiences. My goal is to explore applications that truly support and engage users while applying my passion for learning to drive innovative and meaningful solutions. 
 
 **[Have a look at some past and ongoing work](./portfolio.html)**
 

@@ -2,9 +2,9 @@
 layout: default
 ---
 
-## Unlocking value to people through novel technologies 
+## Unlocking value through understanding user needs to shape future innotvative solutions with impact
 
-I believe the future of technology lies in understanding how people interact with it and uncovering insights that reveal its potential to create impactful experiences. My goal is to explore applications that truly support and engage users while applying my passion for learning to drive innovative and meaningful solutions. 
+I believe the future of technology lies in understanding how people interact with it and uncovering insights that reveal its potential to create impactful experiences. My goal is to explore solutions that truly support and engage users while applying my passion for learning to drive innovative and meaningful solutions. 
 
 **[Have a look at some past and ongoing work](./portfolio.html)**
 

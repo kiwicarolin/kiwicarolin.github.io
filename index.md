@@ -12,12 +12,15 @@ I believe the future of technology lies in understanding how people interact wit
 
 ## Key Skills 
 
-* Generating user insights on user perception in AR/VR in collaborative and single-user settings using mixed methods, physiological sensing, and interpreting behavioral data.
+# UX Research 
+* Generating user insights on user perception using mixed methods, physiological sensing, and interpreting behavioral data.
+* Communicating actionable insights to cross-functional teams (XFN) and guiding development to deliver an engaging user experience.
+* Effective collaborator and thought leader on strategic decisions and user advocacy.
+
+# Immersive Technologies
 * Designing experiences to enhance how connected people feel in AR/VR and identifying ways to deepen their social connections.
 * Identifying the impact of 3D reconstruction on user perception and how people perceive avatars in VR.
-* Creating impactful AR/VR applications to radically improve how we interact with new technology.
-* Communicating insights to cross-functional teams (XFN) and guiding development to deliver an engaging user experience.
-* Effective collaborator and thought leader on strategic decisions and user advocacy.
+* Creating impactful applications to radically improve how we interact with new technology.
 * Prototyping ideas, experiences, and scenarios at the intersection of science, design, and development.
 
  ![Interaction Mode](/assets/videos/GesturesSecondSight.gif)

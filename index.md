@@ -2,9 +2,9 @@
 layout: default
 ---
 
-## Unlocking value through understanding user needs to shape future solutions with impact
+## Understanding user needs to shape research-driven insights and guide impactful solutions
 
-I believe the future of technology lies in understanding how people interact with it and uncovering insights that reveal its potential to create impactful experiences. My goal is to explore solutions that truly support and engage users while applying my passion for learning to drive innovative and meaningful solutions. 
+I believe technology’s future lies in understanding user behavior and uncovering insights that drive meaningful experiences. My goal is to explore new research approaches that improve immersive experiences for users and apply my enthusiasm for learning to create impactful solutions.
 
 **[Have a look at some past and ongoing work](./portfolio.html)**
 
@@ -13,15 +13,14 @@ I believe the future of technology lies in understanding how people interact wit
 ## Key Skills 
 
 ### UX Research 
-* Generating user insights on user perception using mixed methods, physiological sensing, and interpreting behavioral data.
-* Communicating actionable insights to cross-functional teams (XFN) and guiding development to deliver an engaging user experience.
-* Effective collaborator and thought leader on strategic decisions and user advocacy.
+* Generating user insights on perception, cognition and user experience integrating mixed methods, physiological sensing, and interpreting behavioral data.
+* Communicating actionable insights to cross-functional teams and guiding development to deliver engaging user experiences that users enjoy and want to come back to.
+* Collaborating effectively and contributing to strategic decisions with a strong focus on user advocacy.
 
 ### Immersive Technologies
-* Designing experiences to enhance how connected people feel in AR/VR and identifying ways to deepen their social connections.
-* Identifying the impact of 3D reconstruction on user perception and how people perceive avatars in VR.
-* Creating impactful applications to radically improve how we interact with new technology.
-* Prototyping ideas, experiences, and scenarios at the intersection of science, design, and development.
+* Extensive experience gathering insights in broad areas to improve immersive experiences, such as social presence, visual quality, and body-tracking.
+* In-depth expertise in analysing the impact of lifelike reconstructions and avatar perceptions in immersive settings to improve user experience.
+* Prototyping innovative user-centered scenarios and experiences that merge science, design, and development.
 
  ![Interaction Mode](/assets/videos/GesturesSecondSight.gif)
 
@@ -92,9 +91,9 @@ _Honourable Mention Award_ **C. Reichherzer**, A. Cunningham, T. Coleman, R. Cao
 **Guest lecturer at the University of South Australia**
 * Augmented Reality Interaction
 
-**Volunteer**
+**Service**
 * CHI 2022-2024: Associate Chair (Specific Applications Areas) 
-* Women in STEM Club UniSA: Co-Founder and Planning Director. I defined the groups core vision of Innovation, Inclusion and Inspiration. I am also responsible for creating and maintaining our project schedules and help acquire grants. 
+* Women in STEM Club UniSA: Co-Founder of the first club for women in STEM. I defined the groups core vision of Innovation, Inclusion and Inspiration and acquired funding to run workshops on these topics for our members. 
 * Code like a girl: Event volunteer and panelist
 
 ![Volunteering](/assets/img/clg.PNG)

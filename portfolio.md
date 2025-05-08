@@ -4,9 +4,18 @@ layout: default
 
 ## Past and Ongoing Work
 
+### Getting legs into VR
+
+I led and conducted a series mixed-methods studies on avatar embodiment and motion quality to evaluate different leg-tracking solutions, working alongside engineering, data science, and design to develop user-perception-based launch criteria that facilitated rapid iteration and a successful launch.
+
+![Body-Tracking](/assets/videos/movementsdk.gif)
+
+
 ### UI Insights from cross-device AR interfaces
 
-Designed and led a UX feasibility study using SecondSight, a modular prototyping tool I co-developed for testing AR interfaces across smartphones and optical see-through head-mounted displays. Conducted usability studies with both quantitative metrics and qualitative interviews to evaluate spatial content placement under varying AR headset Field of Views. Collaborated with engineers to build a flexible, open-source platform that supports rapid iteration on multi-modal input (touch, gesture, head-pose). The project produced early design insights and a reusable tool for future AR UX research.
+I designed and led a UX feasibility study using SecondSight, a modular prototyping tool I co-developed for testing AR interfaces across smartphones and optical see-through head-mounted displays. Conducted usability studies with both quantitative metrics and qualitative interviews to evaluate spatial content placement under varying AR headset Field of Views. 
+
+Collaborated with engineers to build a flexible, open-source platform that supports rapid iteration on multi-modal input (touch, gesture, head-pose). The project produced early design insights and a reusable tool for future AR UX research.
 
 ![Interaction Mode](/assets/videos/SecondSightHeadPose.gif)
 
@@ -24,7 +33,7 @@ I conducted end-to-end user research and development of a VR system to assess it
 
 ### Depth perception for architectural and urban planning projects in AR 
 
-Led a UX research project in collaboration with industry partners in the real estate sector to explore the feasibility of enhancing mobile AR efficiency. Designed and conducted a mixed-methods study examining the impact of visual depth cues on distance perception. Findings highlighted a disconnect between user preference and performance. These initial insights highlight key considerations for optimising AR design in architectural and urban planning contexts.
+I led a UX research project in collaboration with industry partners in the real estate sector to explore the feasibility of enhancing mobile AR efficiency. Designed and conducted a mixed-methods study examining the impact of visual depth cues on distance perception. Findings highlighted a disconnect between user preference and performance. These initial insights highlight key considerations for optimising AR design in architectural and urban planning contexts.
 
 ![Depth](/assets/img/DepthPerception.png)
 
@@ -32,7 +41,7 @@ Led a UX research project in collaboration with industry partners in the real es
 
 ### Connecting people remotely with wearables 
 
-Designed and ran a mixed-methods UX study to evaluate interaction models for _Social Panoramas_, a cross-device system between a wearable device (Google Glass) and tablet users that enables people to connect in real-time to share their experiences remotely. Evaluated social presence and interaction modes using usability metrics and qualitative feedback. Insights informed design principles for future AR/VR collaboration tools. 
+I designed and ran a mixed-methods UX study to evaluate interaction models for _Social Panoramas_, a cross-device system between a wearable device (Google Glass) and tablet users that enables people to connect in real-time to share their experiences remotely. Evaluated social presence and interaction modes using usability metrics and qualitative feedback. Insights informed design principles for future AR/VR collaboration tools. 
 
 ![Social Panorama](/assets/img/SPConcept.png)
 

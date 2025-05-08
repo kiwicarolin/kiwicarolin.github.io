@@ -10,6 +10,7 @@ I led and conducted a series mixed-methods studies on avatar embodiment and moti
 
 ![Body-Tracking](/assets/videos/movementsdk.gif)
 
+***
 
 ### UI Insights from cross-device AR interfaces
 

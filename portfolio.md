@@ -4,9 +4,17 @@ layout: default
 
 ## Past and Ongoing Work
 
+### Getting legs into VR
+
+I led and conducted a series mixed-methods studies on avatar embodiment and motion quality to evaluate different leg-tracking solutions, working alongside engineering, data science, and design to develop user-perception-based launch criteria that facilitated rapid iteration and a successful launch.
+
+![Body-Tracking](/assets/videos/movementsdk.gif)
+
 ### UI Insights from cross-device AR interfaces
 
-Designed and led a UX feasibility study using SecondSight, a modular prototyping tool I co-developed for testing AR interfaces across smartphones and optical see-through head-mounted displays. Conducted usability studies with both quantitative metrics and qualitative interviews to evaluate spatial content placement under varying AR headset Field of Views. Collaborated with engineers to build a flexible, open-source platform that supports rapid iteration on multi-modal input (touch, gesture, head-pose). The project produced early design insights and a reusable tool for future AR UX research.
+Designed and led a UX feasibility study using SecondSight, a modular prototyping tool I co-developed for testing AR interfaces across smartphones and optical see-through head-mounted displays. 
+
+I conducted usability studies with both quantitative metrics and qualitative interviews to evaluate spatial content placement under varying AR headset Field of Views. Collaborated with engineers to build a flexible, open-source platform that supports rapid iteration on multi-modal input (touch, gesture, head-pose). The project produced early design insights and a reusable tool for future AR UX research.
 
 ![Interaction Mode](/assets/videos/SecondSightHeadPose.gif)
 

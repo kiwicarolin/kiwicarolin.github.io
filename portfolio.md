@@ -20,8 +20,6 @@ I conducted end-to-end user research and development of a VR system to assess it
 
 ![Visual Cues for Forensic Evidence](/assets/videos/GifArrows.gif)
 
-**[Click for more information](./PhD.html)**
-
 ***
 
 ### Depth perception for architectural and urban planning projects in AR 
@@ -38,7 +36,6 @@ Designed and ran a mixed-methods UX study to evaluate interaction models for _So
 
 ![Social Panorama](/assets/img/SPConcept.png)
 
-**[Click for more information](./SocialPanorama.html)**
 
 ***
 
@@ -56,6 +53,5 @@ ShopTrotter was the winning pitch at the Retail Game Changer Challenge, a compet
 
 ![Main screen of ShopTrotter](/assets/img/Main.jpg)
 
-**[Click for more information](./ShopTrotter.html)**
 
 [back](./)

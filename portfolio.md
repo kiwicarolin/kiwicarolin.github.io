@@ -8,15 +8,15 @@ layout: default
 
 I led and conducted a series mixed-methods studies on avatar embodiment and motion quality to evaluate different leg-tracking solutions, working alongside engineering, data science, and design to develop user-perception-based launch criteria that facilitated rapid iteration and a successful launch.
 
+A highlight for me was establishing the first UX research lab in the Zurich office and pioneering user studies at this location, where I set up UX research operations and aligned them with processes used across other sites.
+
 ![Body-Tracking](/assets/videos/movementsdk.gif)
 
 ***
 
 ### UI Insights from cross-device AR interfaces
 
-I designed and led a UX feasibility study using SecondSight, a modular prototyping tool I co-developed for testing AR interfaces across smartphones and optical see-through head-mounted displays. Conducted usability studies with both quantitative metrics and qualitative interviews to evaluate spatial content placement under varying AR headset Field of Views. 
-
-Collaborated with engineers to build a flexible, open-source platform that supports rapid iteration on multi-modal input (touch, gesture, head-pose). The project produced early design insights and a reusable tool for future AR UX research.
+I designed and led a UX feasibility study using SecondSight, a modular prototyping tool I co-developed with engineers for testing AR interfaces across smartphones and optical see-through head-mounted displays. Assessed people's preferences and behaviours using both quantitative metrics and qualitative interviews to evaluate spatial content placement under varying field of views (FoV). The project produced early design insights and a reusable tool for future AR UX research relevant for AR headset configurations with different FoV affordances.
 
 ![Interaction Mode](/assets/videos/SecondSightHeadPose.gif)
 

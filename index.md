@@ -4,7 +4,7 @@ layout: default
 
 ## Understanding user needs to shape research-driven insights and guide impactful solutions
 
-I believe technology’s future lies in understanding user behavior and uncovering insights that drive meaningful experiences. My goal is to explore new research approaches that improve immersive experiences for users and apply my enthusiasm for learning to create impactful solutions.
+I believe technology’s future lies in understanding user behavior and uncovering insights that drive meaningful experiences. My goal is to explore new research approaches that improve experiences for users and apply my enthusiasm for learning to create impactful solutions. My areas of expertise are in emerging technologies, with a primary focus on immersive technologies and a growing emphasis on AI and how people perceive and interact with it. 
 
 **[Have a look at some past and ongoing work](./portfolio.html)**
 

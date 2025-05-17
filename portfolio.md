@@ -4,9 +4,9 @@ layout: default
 
 ## Past and Ongoing Work
 
-### Getting legs into VR
+### Making Virtual Movement Feel Real: End-to-End Research on AI-Powered Movement Tracking in Virtual Reality
 
-I led and conducted a series mixed-methods studies on avatar embodiment and motion quality to evaluate different leg-tracking solutions, working alongside engineering, data science, and design to develop user-perception-based launch criteria that facilitated rapid iteration for a successful launch.
+I led and conducted a series mixed-methods studies across all development phases on avatar embodiment and motion quality to evaluate different leg-tracking solutions, working alongside engineering, data science, and design to develop user-perception-based launch criteria that facilitated rapid iteration for a successful launch. I established a rolling research program to track progress and developed KPIs. 
 
 A highlight for me was establishing the first UX research lab in the Zurich office and pioneering user studies at this location, where I set up UX research operations and aligned them with processes used across other sites.
 
@@ -14,7 +14,7 @@ A highlight for me was establishing the first UX research lab in the Zurich offi
 
 ***
 
-### Evaluating immersive technologies for the justice system 
+### Using immersive technologies to improve high-stakes decision-making
 
 Virtual Reality has the unique capability to provide the illusion of being somewhere else – And feel like _being there_. Could this potentially help a jury to better understand how a crime transpired during a trial? 
 
@@ -27,7 +27,7 @@ I applied mixed methods including workshops, recall tasks, stakeholder interview
 
 ***
 
-### UI Insights from cross-device AR interfaces
+### UI insights from cross-device AR interfaces
 
 I designed and led a UX feasibility study using SecondSight, a modular prototyping tool I co-developed with engineers for testing AR interfaces across smartphones and optical see-through head-mounted displays. Assessed people's preferences and behaviours using both quantitative metrics and qualitative interviews to evaluate spatial content placement under varying field of views (FoV). 
 

@@ -4,7 +4,7 @@ layout: default
 
 ## Past and Ongoing Work
 
-### Making Virtual Movement Feel Real: End-to-End Research on AI-Powered Movement Tracking in Virtual Reality
+### Making virtual movement feel real: end-to-end research on AI-powered movement tracking in Virtual Reality
 
 I led and conducted a series mixed-methods studies across all development phases on avatar embodiment and motion quality to evaluate different leg-tracking solutions, working alongside engineering, data science, and design to develop user-perception-based launch criteria that facilitated rapid iteration for a successful launch. I established a rolling research program to track progress and developed KPIs. 
 

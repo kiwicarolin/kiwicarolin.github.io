@@ -19,9 +19,9 @@ My areas of expertise are in emerging technologies, with a primary focus on imme
 * Communicating actionable insights to cross-functional teams and guiding development to deliver engaging user experiences that users enjoy and want to come back to.
 * Collaborating effectively and contributing to strategic decisions with a strong focus on user advocacy.
 
-### Immersive Technologies
+### Emerging Technologies
 * Extensive experience gathering insights in broad areas to improve immersive experiences, such as social presence, visual quality, and body-tracking.
-* In-depth expertise in analysing the impact of lifelike reconstructions and avatar perceptions in immersive settings to improve user experience.
+* In-depth expertise in analysing the impact of avatar interaction and perception of likelike reconstruction to improve user experience.
 * Prototyping innovative user-centered scenarios and experiences that merge science, design, and development.
 
 ![Body-Tracking](/assets/videos/movementsdk.gif)

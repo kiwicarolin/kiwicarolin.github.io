@@ -18,7 +18,7 @@ A highlight for me was establishing the first UX research lab in the Zurich offi
 
 Virtual Reality has the unique capability to provide the illusion of being somewhere else – And feel like _being there_. Could this potentially help a jury to better understand how a crime transpired during a trial? 
 
-I conducted end-to-end user research and development of a VR system to assess it for courtroom use together with partners in law enforcement, forensic scientists, and attorneys. A major challenge was navigating varying and even conflicting needs of each group.  
+Partnering with law enforcement, attorneys, and forensic scientists, I conducted end-to-end user research and development of a VR system to assess it for courtroom use. A major challenge was navigating varying and even conflicting needs of each group.  
 
 I applied mixed methods including workshops, recall tasks, stakeholder interviews, usability surveys, and physiological measures to assess cognition and decision-making. Findings showed VR improved spatial memory, attention, and verdict consistency, demonstrating its value for high-stakes decision-making environments. My thesis provided evidence that VR is a promising tool to help jury members better understand and remember events, making a better outcome in court more likely.
 

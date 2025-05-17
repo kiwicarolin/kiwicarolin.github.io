@@ -24,7 +24,7 @@ My areas of expertise are in emerging technologies, with a primary focus on imme
 * In-depth expertise in analysing the impact of lifelike reconstructions and avatar perceptions in immersive settings to improve user experience.
 * Prototyping innovative user-centered scenarios and experiences that merge science, design, and development.
 
- ![Interaction Mode](/assets/videos/GesturesSecondSight.gif)
+![Body-Tracking](/assets/videos/movementsdk.gif)
 
 ***
 

@@ -6,7 +6,7 @@ layout: default
 
 ### Getting legs into VR
 
-I led and conducted a series mixed-methods studies on avatar embodiment and motion quality to evaluate different leg-tracking solutions, working alongside engineering, data science, and design to develop user-perception-based launch criteria that facilitated rapid iteration and a successful launch.
+I led and conducted a series mixed-methods studies on avatar embodiment and motion quality to evaluate different leg-tracking solutions, working alongside engineering, data science, and design to develop user-perception-based launch criteria that facilitated rapid iteration for a successful launch.
 
 A highlight for me was establishing the first UX research lab in the Zurich office and pioneering user studies at this location, where I set up UX research operations and aligned them with processes used across other sites.
 
@@ -14,7 +14,7 @@ A highlight for me was establishing the first UX research lab in the Zurich offi
 
 ***
 
-### Evaluating VR for the justice system 
+### Evaluating immersive technologies for the justice system 
 
 Virtual Reality has the unique capability to provide the illusion of being somewhere else – And feel like _being there_. Could this potentially help a jury to better understand how a crime transpired during a trial? 
 

@@ -15,7 +15,7 @@ My areas of expertise are in emerging technologies, with a primary focus on imme
 ## Key Skills 
 
 ### UX Research 
-* Generating user insights on perception, cognition and user experience integrating mixed methods, physiological sensing, and interpreting behavioral data.
+* Generating user insights on perception, decision-making and user experience integrating mixed methods, physiological sensing, and interpreting behavioral data.
 * Communicating actionable insights to cross-functional teams and guiding development to deliver engaging user experiences that users enjoy and want to come back to.
 * Collaborating effectively and contributing to strategic decisions with a strong focus on user advocacy.
 

@@ -14,27 +14,34 @@ A highlight for me was establishing the first UX research lab in the Zurich offi
 
 ***
 
+### Evaluating VR for the justice system 
+
+Virtual Reality has the unique capability to provide the illusion of being somewhere else – And feel like _being there_. Could this potentially help a jury to better understand how a crime transpired during a trial? 
+
+I conducted end-to-end user research and development of a VR system to assess it for courtroom use together with partners in law enforcement, forensic scientists, and attorneys. A major challenge was navigating varying and even conflicting needs of each group.  
+
+I applied mixed methods including workshops, recall tasks, stakeholder interviews, usability surveys, and physiological measures to assess cognition and decision-making. Findings showed VR improved spatial memory, attention, and verdict consistency, demonstrating its value for high-stakes decision-making environments. My thesis provided evidence that VR is a promising tool to help jury members better understand and remember events, making a better outcome in court more likely.
+
+![Visual Cues for Forensic Evidence](/assets/videos/GifArrows.gif)
+
+
+***
+
 ### UI Insights from cross-device AR interfaces
 
-I designed and led a UX feasibility study using SecondSight, a modular prototyping tool I co-developed with engineers for testing AR interfaces across smartphones and optical see-through head-mounted displays. Assessed people's preferences and behaviours using both quantitative metrics and qualitative interviews to evaluate spatial content placement under varying field of views (FoV). The project produced early design insights and a reusable tool for future AR UX research relevant for AR headset configurations with different FoV affordances.
+I designed and led a UX feasibility study using SecondSight, a modular prototyping tool I co-developed with engineers for testing AR interfaces across smartphones and optical see-through head-mounted displays. Assessed people's preferences and behaviours using both quantitative metrics and qualitative interviews to evaluate spatial content placement under varying field of views (FoV). 
+
+The project produced early design insights and a reusable tool for future AR UX research relevant for AR headset configurations with different FoV affordances.
 
 ![Interaction Mode](/assets/videos/SecondSightHeadPose.gif)
 
 ***
 
-### Evaluating VR for the justice system 
-
-Virtual Reality has the unique capability to provide the illusion of being somewhere else – And feel like _being there_. Could this potentially help a jury to better understand how a crime transpired during a trial? 
-
-I conducted end-to-end user research and development of a VR system to assess it for courtroom use. Applied mixed methods including recall tasks, interviews, usability surveys, and physiological measures to assess cognition and decision-making. Findings showed VR improved spatial memory, attention, and verdict consistency, demonstrating its value for high-stakes decision-making environments. The better the scene and the event is understood by the jury, the more likely it is to have a really good outcome in court with the right answers obtained. My thesis provided evidence that VR is a promising tool to help jury members better memorise and understand what happened.
-
-![Visual Cues for Forensic Evidence](/assets/videos/GifArrows.gif)
-
-***
-
 ### Depth perception for architectural and urban planning projects in AR 
 
-I led a UX research project in collaboration with industry partners in the real estate sector to explore the feasibility of enhancing mobile AR efficiency. Designed and conducted a mixed-methods study examining the impact of visual depth cues on distance perception. Findings highlighted a disconnect between user preference and performance. These initial insights highlight key considerations for optimising AR design in architectural and urban planning contexts.
+I led a UX research project in collaboration with industry partners in the real estate sector to explore the feasibility of enhancing mobile AR efficiency. Designed and conducted a mixed-methods study examining the impact of visual depth cues on distance perception. Findings highlighted a disconnect between user preference and performance. 
+
+These initial insights highlight key considerations for optimising AR design in architectural and urban planning contexts.
 
 ![Depth](/assets/img/DepthPerception.png)
 
@@ -42,7 +49,9 @@ I led a UX research project in collaboration with industry partners in the real 
 
 ### Connecting people remotely with wearables 
 
-I designed and ran a mixed-methods UX study to evaluate interaction models for _Social Panoramas_, a cross-device system between a wearable device (Google Glass) and tablet users that enables people to connect in real-time to share their experiences remotely. Evaluated social presence and interaction modes using usability metrics and qualitative feedback. Insights informed design principles for future AR/VR collaboration tools. 
+I designed and ran a mixed-methods UX study to evaluate interaction models for _Social Panoramas_, a cross-device system between a wearable device (Google Glass) and tablet users that enables people to connect in real-time to share their experiences remotely. Evaluated social presence and interaction modes using usability metrics and qualitative feedback. 
+
+Insights informed design principles for future AR/VR collaboration tools. 
 
 ![Social Panorama](/assets/img/SPConcept.png)
 

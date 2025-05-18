@@ -23,7 +23,7 @@ My areas of expertise are in emerging technologies, with a primary focus on imme
 * Extensive experience gathering insights in broad areas to improve immersive experiences, such as social presence, visual quality, and body-tracking.
 * In-depth expertise in analysing the impact of avatar interaction and perception of likelike representation to improve user experience.
 * Prototyping innovative user-centered scenarios and experiences that merge science, design, and development.
-* Currently expanding into human-AI interaction projects to explore new dimensions of user experience.
+* Currently expanding into human-AI interaction projects to explore novel areas for user experience. 
 
 ![Body-Tracking](/assets/videos/movementsdk.gif)
 

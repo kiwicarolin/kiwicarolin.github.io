@@ -26,7 +26,7 @@ I applied mixed methods including workshops, recall tasks, stakeholder interview
 
 ***
 
-### public
+### Public articipation through AR in urban planning
 
 Working with external city planning stakeholders, I led user research within a broader initiative exploring how augmented reality could increase public participation and improve communication among diverse urban planning stakeholders. The project aimed to make complex planning information more accessible and support a more inclusive, democratic process.
 

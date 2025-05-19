@@ -10,7 +10,7 @@ I led and conducted a series mixed-methods studies across all development phases
 
 A highlight for me was establishing the first UX research lab in the Zurich office and pioneering user studies at this location, where I set up UX research operations and aligned them with processes used across other sites.
 
-![Body-Tracking](/assets/videos/movementsdk.gif)
+![Body-Tracking](/assets/videos/genlegs.gif)
 
 ***
 

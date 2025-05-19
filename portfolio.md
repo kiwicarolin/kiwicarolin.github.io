@@ -6,7 +6,7 @@ layout: default
 
 ### Making virtual movement feel real: end-to-end research on AI-powered movement tracking in Virtual Reality
 
-I led and conducted a series mixed-methods studies across all development phases on avatar embodiment and motion quality to evaluate different leg-tracking solutions, working alongside engineering, data science, and design to develop user-perception-based launch criteria that facilitated rapid iteration for a successful launch. I established a rolling research program to track progress and developed KPIs. 
+I led and conducted a series mixed-methods studies across all development phases on avatar embodiment and motion quality to evaluate different leg-tracking solutions, working alongside engineering, data science, and design to develop launch criteria that facilitated rapid iteration for a successful launch. I developed key quality metrics and established a fast-paced rolling research program to track progress, which included benchmarking, lab-based testing with quantitative and qualitative metrics, broader surveys, and experimental studies to assess how different configurations changes user perception.
 
 A highlight for me was establishing the first UX research lab in the Zurich office and pioneering user studies at this location, where I set up UX research operations and aligned them with processes used across other sites.
 

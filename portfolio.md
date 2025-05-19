@@ -10,7 +10,18 @@ I led and conducted a series mixed-methods studies across all development phases
 
 A highlight for me was establishing the first UX research lab in the Zurich office and pioneering user studies at this location, where I set up UX research operations and aligned them with processes used across other sites.
 
-![Body-Tracking](/assets/videos/genlegs.gif)
+![Body-Tracking](/assets/videos/movementsdk.gif)
+
+***
+
+### Public participation through AR in urban planning
+
+Working with external city planning stakeholders, I led user research within a broader initiative exploring how augmented reality could increase public participation and improve communication among diverse urban planning stakeholders. The project aimed to make complex planning information more accessible and support a more inclusive, democratic process.
+
+The research involved understanding stakeholder needs, pilot usability testing, and conducting AR walking tours with the public to collect their feedback. Findings showed strong user acceptance, highlighted usability strengths, and revealed areas for technical improvement. These insights informed recommendations and led to further projects focused on making urban planning more tangible and engaging.
+
+![AR for Urban Planning](/assets/videos/BhfStrasse.gif)
+
 
 ***
 
@@ -23,16 +34,6 @@ Partnering with law enforcement, attorneys, and forensic scientists, I conducted
 I applied mixed methods including workshops, recall tasks, stakeholder interviews, usability surveys, and physiological measures to assess cognition and decision-making. Findings showed VR improved spatial memory, attention, and verdict consistency, demonstrating its value for high-stakes decision-making environments. My thesis provided evidence that VR is a promising tool to help jury members better understand and remember events, making a better outcome in court more likely.
 
 ![Visual Cues for Forensic Evidence](/assets/videos/GifArrows.gif)
-
-***
-
-### Public articipation through AR in urban planning
-
-Working with external city planning stakeholders, I led user research within a broader initiative exploring how augmented reality could increase public participation and improve communication among diverse urban planning stakeholders. The project aimed to make complex planning information more accessible and support a more inclusive, democratic process.
-
-The research involved understanding stakeholder needs, pilot usability testing, and conducting AR walking tours with the public to collect their feedback. Findings showed strong user acceptance, highlighted usability strengths, and revealed areas for technical improvement. These insights informed recommendations and led to further projects focused on making urban planning more tangible and engaging.
-
-![AR for Urban Planning](/assets/videos/BhfStrasse.gif)
 
 
 ***

@@ -25,7 +25,7 @@ My areas of expertise are in emerging technologies, with a primary focus on imme
 * Prototyping innovative user-centered scenarios and experiences that merge science, design, and development.
 * Currently expanding into human-AI interaction projects to explore novel areas for user experience. 
 
-![Body-Tracking](/assets/videos/movementsdk.gif)
+![Body-Tracking](/assets/videos/genlegs.gif)
 
 ***
 

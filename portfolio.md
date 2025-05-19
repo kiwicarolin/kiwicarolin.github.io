@@ -18,7 +18,7 @@ A highlight for me was establishing the first UX research lab in the Zurich offi
 
 Working with external city planning stakeholders, I led user research within a broader initiative exploring how augmented reality could increase public participation and improve communication among diverse urban planning stakeholders. The project aimed to make complex planning information more accessible and support a more inclusive, democratic process.
 
-The research involved understanding stakeholder needs, pilot usability testing, and conducting AR walking tours with the public to collect their feedback. Findings showed strong user acceptance, highlighted usability strengths, and revealed areas for technical improvement. These insights informed recommendations and led to further projects focused on making urban planning more tangible and engaging.
+The research involved understanding stakeholder needs, pilot usability testing, and conducting AR walking tours with the public to collect their feedback. Findings showed strong user acceptance, highlighted usability strengths, and revealed areas for technical improvement. These insights led to further projects focused on making urban planning more tangible and engaging.
 
 ![AR for Urban Planning](/assets/videos/BhfStrasse.gif)
 

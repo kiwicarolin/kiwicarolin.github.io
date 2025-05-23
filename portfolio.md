@@ -6,7 +6,7 @@ layout: default
 
 ### Making virtual movement feel real: end-to-end research on AI-powered movement tracking in Virtual Reality
 
-I led and conducted a series mixed-methods studies across all development phases on avatar embodiment and motion quality to evaluate different leg-tracking solutions, working alongside engineering, data science, and design to develop launch criteria that facilitated rapid iteration for a successful launch. I developed key quality metrics and established a fast-paced rolling research program to track progress, which included benchmarking, lab-based testing with quantitative and qualitative metrics, broader surveys, and experimental studies to assess how different configurations changes user perception.
+I led and conducted a series mixed-methods studies across all development phases on avatar embodiment and motion quality to evaluate novel leg-tracking solutions. Working alongside engineering, data science, and design, I developed launch criteria that facilitated rapid iteration for a successful launch. I developed key quality metrics and established a fast-paced rolling research program to track progress, which included benchmarking, lab-based testing with quantitative and qualitative metrics, broader surveys, and experimental studies.
 
 A highlight for me was establishing the first UX research lab in the Zurich office and pioneering user studies at this location, where I set up UX research operations and aligned them with processes used across other sites.
 
@@ -18,7 +18,7 @@ A highlight for me was establishing the first UX research lab in the Zurich offi
 
 Working with external city planning stakeholders, I led user research within a broader initiative exploring how augmented reality could increase public participation and improve communication among diverse urban planning stakeholders. The project aimed to make complex planning information more accessible and support a more inclusive, democratic process.
 
-The research involved understanding stakeholder needs, pilot usability testing, and conducting AR walking tours with the public to collect their feedback. Findings showed strong user acceptance, highlighted usability strengths, and revealed areas for technical improvement. These insights led to further projects focused on making urban planning more tangible and engaging.
+The research involved understanding stakeholder needs, pilot usability testing, and conducting AR walking tours with the public to collect their feedback. We discovered strong user acceptance, highlighted usability strengths, and revealed areas for technical improvement. These insights led to further funding for projects focused on making urban planning more tangible and engaging.
 
 ![AR for Urban Planning](/assets/videos/BhfStrasse.gif)
 

@@ -31,7 +31,7 @@ My areas of expertise are in emerging technologies, with a primary focus on imme
 
 ## Education
 
-**PhD in Computer Science**, University of South Australia <br>
+**PhD in Computer Science**, Adelaide University <br>
 **MSc in Digital Media**, University of Bremen <br>
 **BA in Design**, University of Applied Sciences Mainz
 
@@ -91,11 +91,11 @@ _Honourable Mention Award_ **C. Reichherzer**, A. Cunningham, T. Coleman, R. Cao
 * Virtual Reality: Introduction to Unity3D and HTC Vive
 * Data Structures: Lists, Stacks, Queues, Maps and Sets  
 
-**Guest lecturer at the University of South Australia**
+**Guest lecturer at Adelaide University**
 * Augmented Reality Interaction
 
 **Service**
-* CHI 2022-2024: Associate Chair (Specific Applications Areas) 
+* CHI 2022-2026: Associate Chair and Best Paper (Specific Applications Areas) 
 * Women in STEM Club UniSA: Co-Founder of the first club for women in STEM. I defined the groups core vision of Innovation, Inclusion and Inspiration and acquired funding to run workshops on these topics for our members. 
 * Code like a girl: Event volunteer and panelist
 

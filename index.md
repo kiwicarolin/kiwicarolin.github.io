@@ -4,9 +4,9 @@ layout: default
 
 ## Understanding user needs to shape research-driven insights and guide impactful solutions
 
-I believe technology’s future lies in understanding user behavior and uncovering insights that drive meaningful experiences. My goal is to explore new research approaches that improve experiences for users and apply my enthusiasm for learning to create impactful solutions. 
+I believe technology’s future lies in understanding how people interact with new technology and uncovering insights that drive meaningful experiences. My goal is to explore new research approaches that improve experiences for users and apply my enthusiasm for learning to create impactful solutions. 
 
-My areas of expertise are in emerging technologies, with a primary focus on immersive systems and a growing focus on AI and how people perceive and interact with it. However, I believe the principles of evaluating user experience are essential across all technologies.   
+My areas of expertise are in emerging technologies, with a primary focus on immersive systems and a growing focus on AI and how people perceive and interact with it. In particular, I am highly excited about the intersection of Vision Language Models and XR, and strongly believe this will enable new ways to engage more effectively with complex information and provide new avenues for human-AI collaboration. 
 
 **[Have a look at some past and ongoing work](./portfolio.html)**
 

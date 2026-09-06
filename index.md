@@ -31,7 +31,7 @@ My areas of expertise are in emerging technologies, with a primary focus on imme
 
 ## Education
 
-**PhD in Computer Science**, Adelaide University <br>
+**PhD in Computer Science**, University of South Australia (now Adelaide University) <br>
 **MSc in Digital Media**, University of Bremen <br>
 **BA in Design**, University of Applied Sciences Mainz
 
